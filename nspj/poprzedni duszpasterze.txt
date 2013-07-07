@@ -1,0 +1,39 @@
+<div class="componentheading">Poprzedni Duszpasterze</div><br>
+<table border="0" width="100%">
+    <tbody>
+        <tr>
+            <td width="100%">
+            <h3 align="center">Proboszczowie:</h3>
+            <p><strong>1919 rok pierwszy duszpasterz w Wyrach Ks. Teofil Kocurek,&nbsp;<br>mianowany przez Ksi¹¿êco - Biskupi Generalny Wikariat we Wroc³awiu.</strong></p>
+            <ol>
+                <li>1923 - Ks. Jan Janota +<em>15 czerwca 1968 r.</em> </li>
+                <li>1964 - Ks. Stanis³aw Adamczyk </li>
+                <li>1971 - Ks. dr Franciszek Leœnik +<em>14 listopada 1991</em> </li>
+                <li>1982 - Ks. Ryszard Sosna +<em>29 wrzeœnia 1983</em> </li>
+                <li>1983 - Ks. Franciszek Rajca </li>
+                <li>1987 - Ks. Franciszek Musio³ </li>
+                <li>1998 - Ks. Józef Moczygêba</li>
+            </ol>
+            </td>
+        </tr>
+        <tr>
+            <td width="100%">
+            <h3 align="center">Wikarzy:</h3>
+            <ol>
+                <li>1951 - Ks. Walter Gajda </li>
+                <li>1953 - Ks. mgr Franciszek Konieczny </li>
+                <li>1956 - Ks. Walter Wrzo³ </li>
+                <li>1957 - Ks. Jerzy Cedzich </li>
+                <li>1962 - Ks. Kazimierz Piprek </li>
+                <li>1964 - Ks. Sylwester Antosz </li>
+                <li>1966 - Ks. mgr Edward Poloczek </li>
+                <li>1969 - Ks. Pawe³ Laby </li>
+                <li>1973 - Ks. Ryszard Sosna </li>
+                <li>1988 - Ks. Stanis³aw Pindel </li>
+                <li>1991 - Ks. Stanis³aw Durczok. </li>
+                <li>1992 - Ks. Jerzy S³ota </li>
+                <li>1996 - Ks. Micha³ Chlubek</li>
+                <li>2000 - Ks. Dariusz Grodoñ</li>
+                <li>2004 - Ks. Krystian £agowski</li>
+                <li>2007 - Ks. Marcin Palka</li>
+		<li>2010 - Ks. Piotr Stoll, obecnie student KUL</li>

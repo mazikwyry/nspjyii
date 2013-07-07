@@ -1,0 +1,24 @@
+<div class="componentheading">Kap³ani Pochodz¹cy</div><br>
+<table border="0" width="100%">
+  <tbody><tr>
+    <td width="100%">
+      <ol>
+        <li>1845 - Ks. Jan S³omka</li>
+        <li>1930 - Ks. Franciszek Bojdo³ ,+ 27 maja 1942 rozstrzelany w Oœwiêcimiu</li>
+        <li>1937 - Ks. Karol Markiel, + 26 listopada 1993</li>
+        <li>1939 - Ks. Wincenty Nagi - Drobina, + 13 maja 1988</li>
+        <li>1943 - Ks. Pawe³ Kempka, + 26 stycznia 1994</li>
+        <li>1944 - Ks. W³adys³aw Borowski, + 20 wrzeœnia 1998&nbsp;</li>
+        <li>1944 - Ks. W³adys³aw Marekwia, + 1999</li>
+        <li>1953 - Ks. Kazimierz Marekwia</li>
+        <li>1954 - Ks. Konstanty Nagi - O. Placyd , +5 paŸdziernika 1985</li>
+        <li>1957 - Ks. Stanis³aw Wygrabek, + 2001</li>
+        <li>1978 - Ks. Jacek Wojciech</li>
+        <li>1978 - <a href="../../nekrologi/Hejna.html" target="_blank"> Ks. Eugeniusz
+          Hejna</a>, + 19 stycznia 2008</li>
+        <li>1980 - Ks. Adam £apuszek</li>
+        <li>1991 - Ks. Joachim Kurpas - O. Ewald</li>
+        <li>1992 - <a href="../../nekrologi/Targiel.html" target="_blank"> Ks. Marek
+          Targiel</a>, + 26 czerwca 2000</li>
+        <li>2002 - Ks. Adam Skutela</li>
+        <li>2005 - Ks. Jakub D¹browski</li>
