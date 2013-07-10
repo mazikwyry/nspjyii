@@ -257,6 +257,11 @@ input[type="submit"], input[type="button"]
 		color:#333;
 		line-height: 22px;
 	}
+
+	article span, article p{
+		line-height: 22px !important;
+		font-family:Gabriola !important;
+	}
 	
 	
 	.rip{
@@ -574,5 +579,7 @@ footer{
 }	
 	
 
-	
+#Content_content_tbl{
+	width:100% !important;
+}	
 	
