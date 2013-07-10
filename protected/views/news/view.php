@@ -102,7 +102,7 @@ $this->menu=array(
 					else
 					   jQuery(".errors").html("Uzupełnij wszystkie pola!");
 					   jQuery.ajax({
-                                url: "\/comments\/captcha?refresh=1",
+                                url: "<?php echo Yii::app()->request->baseUrl; ?>\/comments\/captcha?refresh=1",
                                 dataType: 'json',
                                 cache: false,
                                 success: function(data) {
@@ -120,7 +120,7 @@ $this->menu=array(
 /*]]>*/
     $(document).ready(function(){
         jQuery.ajax({
-            url: "\/nspjyii\/comments\/captcha?refresh=1",
+            url: "<?php echo Yii::app()->request->baseUrl; ?>\/comments\/captcha?refresh=1",
             dataType: 'json',
             cache: false,
             success: function(data) {
@@ -132,7 +132,7 @@ $this->menu=array(
     });
 	jQuery('#yw2_button, #yw2').live('click',function(){
 jQuery.ajax({
-    url: "\/comments\/captcha?refresh=1",
+    url: "<?php echo Yii::app()->request->baseUrl; ?>\/comments\/captcha?refresh=1",
 	dataType: 'json',
 	cache: false,
 	success: function(data) {
