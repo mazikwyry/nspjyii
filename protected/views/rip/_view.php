@@ -21,7 +21,7 @@
     <div class="image">
         <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/gfx/rip.png", "Klepsydra"); ?>
     </div>
-    <?php echo $data->info; ?>
+    <?php echo nl2br($data->info); ?>
     <br/><br/>
     <i>Wieczny odpoczynek racz mu dać Panie, a światłość wiekuista niechaj mu świeci. Niech odpoczywa w spokoju wiecznym. Amen.</i> 
 </article>

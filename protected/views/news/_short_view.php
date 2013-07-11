@@ -13,7 +13,7 @@
      <div class="image">
          <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/images/small/".$data->image, "Image"); ?>
      </div>
-     <?php echo stripslashes(shortenText($data->content,800)); ?>
+     <?php echo stripslashes(nl2br(shortenText($data->content,800))); ?>
 </article>
 <div class="comments">
         <?php 

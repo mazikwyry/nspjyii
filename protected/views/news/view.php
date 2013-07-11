@@ -28,7 +28,7 @@ $this->menu=array(
      <div class="image" id="medium">
          <?php echo CHtml::image("../images/images/medium/".$model->image, "Image"); ?>
      </div>
-     <?php echo stripslashes($model->content); ?>
+     <?php echo stripslashes(nl2br($model->content)); ?>
      <div class="cl"></div>
 </article>
 <div class="comments">
