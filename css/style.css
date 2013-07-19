@@ -42,11 +42,11 @@ body{
 .content_all{
 	width:100%;
 	min-height:800px;
-	background-image: linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.9) 100%);
-	background-image: -o-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.9) 100%);
-	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.9) 100%);
-	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.9) 100%);
-	background-image: -ms-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.9) 100%);
+	background-image: linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
+	background-image: -o-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
+	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
+	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
+	background-image: -ms-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
 	
 	background-image: -webkit-gradient(
 		linear,
@@ -54,7 +54,7 @@ body{
 		left bottom,
 		color-stop(0, rgba(255,255,255,0.4)),
 		color-stop(0.2, rgba(255,255,255,0.8)),
-		color-stop(1, rgba(255,255,255,0.9))
+		color-stop(1, rgba(255,255,255,0.95))
 	);
 	-moz-box-shadow: 0 0 8px 5px rgba(0,0,0,0.1);
 	-webkit-box-shadow: 0 0 8px 5px rgba(0,0,0,0.1);
@@ -254,7 +254,7 @@ input[type="submit"], input[type="button"]
 		font-family:Gabriola;
 		font-size:20px;
 		text-align: justify;
-		color:#333;
+		color:#111;
 		line-height: 22px;
 	}
 
@@ -459,7 +459,7 @@ footer{
 		width:200px;
 		float:left;
 		font-size: 22px;
-		color: #333;
+		color: #FFF;
 		font-family: Gabriola;
 		line-height:27px;
 		margin-right:30px;
@@ -482,11 +482,11 @@ footer{
 	footer .copyright{
 		width:100%;
 		font-size: 16px;
-		color: #333;
+		color: #EEE;
 		font-family: Gabriola;
 		line-height:20px;
 		text-align:center;
-		margin:10px 0;
+		margin:20px 0 10px 0;
 	}
 	
 .floatleft{

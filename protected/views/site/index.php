@@ -1,3 +1,5 @@
+<?php $this->pageTitle = "Strona główna" ?>
+
 <?php $this->widget('zii.widgets.CListView', array(
     'dataProvider'=>$dataProviderRip,
     'itemView'=>'../rip/_view',

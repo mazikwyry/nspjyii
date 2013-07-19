@@ -69,10 +69,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=nspj',
+			'connectionString' => 'mysql:host=cufal.pl;dbname=mazikwyr_nspj',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'mazikwyr_mazik',
+			'password' => 'matzik',
 			'charset' => 'utf8',
 		),
 		
@@ -101,6 +101,6 @@ return array(
 	// using Yii::app()->params['paramName']
 	'params'=>array(
 		// this is used in contact page
-		'adminEmail'=>'mazik.wyry@gmail.com',
+		'adminEmail'=>'wyry@archidiecezja.katowice.pl',
 	),
 );
