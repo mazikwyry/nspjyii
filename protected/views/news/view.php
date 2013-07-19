@@ -36,11 +36,15 @@ $this->menu=array(
     <div class="cl"></div>
     <div class="comments_list">
         <div id="list">
-            <?php $this->widget('zii.widgets.CListView', array(
-                'dataProvider'=>$comments,
-                'itemView'=>'../comments/_view',
-                'summaryText'=>'',
-            )); ?>
+            <?php
+                if($comments->itemCount>0){
+                     $this->widget('zii.widgets.CListView', array(
+                        'dataProvider'=>$comments,
+                        'itemView'=>'../comments/_view',
+                        'summaryText'=>'',
+                    ));
+                } 
+            ?>
         </div>
 
         <div class="one_comment add">
