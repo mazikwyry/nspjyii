@@ -72,7 +72,9 @@ $this->menu=array(
                         <?php echo $form->labelEx(Comments::Model(),'captcha'); ?>
                         <div>
                         <?php $this->widget('CCaptcha', array(
-                            'clickableImage'=>false,
+                            'clickableImage'=>true,
+                            'imageOptions'=>array('id' => 'captcha_image'),
+                            'showRefreshButton'=>false,
                         )); ?>
                         <?php echo $form->textField(Comments::Model(),'captcha'); ?>
                         <?php echo $form->error(Comments::Model(),'captcha'); ?>
@@ -110,7 +112,7 @@ $this->menu=array(
                                 dataType: 'json',
                                 cache: false,
                                 success: function(data) {
-                                jQuery('#yw0').attr('src', data['url']);
+                                jQuery('#captcha_image').attr('src', data['url']);
                                 jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
                             }
                         });
@@ -128,19 +130,19 @@ $this->menu=array(
             dataType: 'json',
             cache: false,
             success: function(data) {
-            jQuery('#yw0').attr('src', data['url']);
+            jQuery('#captcha_image').attr('src', data['url']);
             jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
         }
     });
         
     });
-	jQuery('#yw0_button, #yw0').on('click',function(){
+	jQuery('#captcha_image').on('click',function(){
 jQuery.ajax({
     url: "<?php echo Yii::app()->request->baseUrl; ?>\/comments\/captcha?refresh=1",
 	dataType: 'json',
 	cache: false,
 	success: function(data) {
-	jQuery('#yw0').attr('src', data['url']);
+	jQuery('#captcha_image').attr('src', data['url']);
 	jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
 	}
 	});
