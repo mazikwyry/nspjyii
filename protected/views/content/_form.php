@@ -44,7 +44,7 @@ tinyMCE.init({
     language : 'pl',
 
     // Example content CSS (should be your site CSS)
-    content_css : "/css/style.css",
+    //content_css : "/css/style.css",
 
     width : "600",
     forced_root_block : false,

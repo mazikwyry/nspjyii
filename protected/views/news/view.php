@@ -110,7 +110,7 @@ $this->menu=array(
                                 dataType: 'json',
                                 cache: false,
                                 success: function(data) {
-                                jQuery('#yw2').attr('src', data['url']);
+                                jQuery('#yw0').attr('src', data['url']);
                                 jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
                             }
                         });
@@ -128,19 +128,19 @@ $this->menu=array(
             dataType: 'json',
             cache: false,
             success: function(data) {
-            jQuery('#yw2').attr('src', data['url']);
+            jQuery('#yw0').attr('src', data['url']);
             jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
         }
     });
         
     });
-	jQuery('#yw2_button, #yw2').live('click',function(){
+	jQuery('#yw0_button, #yw0').on('click',function(){
 jQuery.ajax({
     url: "<?php echo Yii::app()->request->baseUrl; ?>\/comments\/captcha?refresh=1",
 	dataType: 'json',
 	cache: false,
 	success: function(data) {
-	jQuery('#yw2').attr('src', data['url']);
+	jQuery('#yw0').attr('src', data['url']);
 	jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
 	}
 	});

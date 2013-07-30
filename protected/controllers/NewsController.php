@@ -7,7 +7,6 @@ class NewsController extends Controller
 	 * using two-column layout. See 'protected/views/layouts/column2.php'.
 	 */
 	public $layout='//layouts/admin';
-	public $loadJQuery=true;
 	/**
 	 * @return array action filters
 	 */
@@ -61,6 +60,7 @@ class NewsController extends Controller
 	public function actionView($id)
 	{
 	    $this->layout = "empty";
+	    $this->loadJQuery=false;
         $model = $this->loadModel($id);
         $criteria = new CDbCriteria;
         $criteria->order = 'date_added DESC';

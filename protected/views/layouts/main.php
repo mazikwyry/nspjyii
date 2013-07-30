@@ -56,7 +56,7 @@
                         </div>
                     </nav>
                     <div class="div960" style="height:289px;">
-                        <?php echo CHtml::link(CHtml::image(Yii::app()->request->baseUrl."/images/gfx/logo.png","logo",array('id'=>'logo_img')),Yii::app()->request->baseUrl) ; ?>
+                        <?php echo CHtml::link(CHtml::image(Yii::app()->request->baseUrl."/images/gfx/logo.png","logo",array('id'=>'logo_img')),Yii::app()->request->baseUrl."/") ; ?>
                     </div>
 
                 </header>
@@ -82,6 +82,22 @@
                         Statystyki
                     </h2>
                     <?php $this->widget('application.components.CounterWidget'); ?>
+                    <!-- stat.4u.pl NiE KaSoWaC --> 
+                    <a target=_blank href="http://stat.4u.pl/?nspjwyry"><img style="margin-top:5px; opacity:0.7;" src="http://ad.stat.4u.pl/s4u.gif" border="0"></a> 
+                    <script language="javascript"> 
+                    <!-- 
+                    function s4upl() { return "";} 
+
+                    //--> 
+                    </script> 
+                    <script language="JavaScript" src="http://ad.stat.4u.pl/s.js?nspjwyry"></script> 
+                    <script language="JavaScript"> 
+                    <!-- 
+                    s4uext=s4upl(); 
+                    document.write("<img src=\"http://stat.4u.pl/cgi-bin/s.cgi?i=nspjwyry"+s4uext+"\" width=1 height=1>") 
+                    //--> 
+                    </script>
+
                 </div>
 
                 <div class="section" style="border:0;">

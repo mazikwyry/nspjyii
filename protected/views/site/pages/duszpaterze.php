@@ -26,7 +26,7 @@
     <br/> 
     <div class="cl"></div>
     <div class="image">
-      <img src="http://www.wyry.archidiecezja.katowice.pl/userfiles/Image/Kaplani/Kiedrzyn.jpg">
+      <img src="http://www.wyry.archidiecezja.katowice.pl/images/Kiedrzyn.jpg">
     </div>
     <strong>Ks. Adam Kiedrzyn<br></strong>
     ur. 15.12.1975 r. w Bytomiu. 
@@ -44,7 +44,7 @@
     <br/>
     <div class="cl"></div>
     <div class="image">
-      <img src="http://www.wyry.archidiecezja.katowice.pl/userfiles/Image/Kaplani/Stoll.jpg">
+      <img src="http://www.wyry.archidiecezja.katowice.pl/images/Stoll.jpg">
     </div>
     <strong>Ks. Piotr Stoll</strong><br>
     Urodzony: 19.09.1977 w Tychach. Chrzest św.: w parafii p.w. św. Bartłomieja w Bieruniu Starym. Bierzmowanie: w parafii p.w. bł Karoliny w Tychach. Egzamin maturalny zdał w 1997 roku, następnie studiował na Akademii Górniczo - Hutniczej w Krakowie.

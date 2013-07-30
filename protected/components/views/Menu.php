@@ -40,7 +40,7 @@
         Parafia
     </div>
     <ul class="menu_items">
-        <li><?php echo CHtml::link("Strona główna",Yii::app()->request->baseUrl); ?></li>
+        <li><?php echo CHtml::link("Strona główna",Yii::app()->request->baseUrl."/"); ?></li>
         <li><?php echo CHtml::link("Nabożeństwa",array('/site/page', 'view'=>'nabozenstwa')); ?></li>
         <li><a><?php echo CHtml::link("Kancelaria parafialna",array('/site/page', 'view'=>'sakramenty')); ?></a></li>
         <li><a><?php echo CHtml::link("Duszpasterze",array('/site/page', 'view'=>'duszpaterze')); ?></a></li>
