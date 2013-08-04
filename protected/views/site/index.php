@@ -13,4 +13,8 @@ if ($dataProviderRip->itemCount>0){
     'dataProvider'=>$dataProvider,
     'itemView'=>'../news/_short_view',
     'summaryText'=>'',
-)); ?>
+)); 
+
+
+echo $xml;
+?>

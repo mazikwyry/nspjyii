@@ -98,6 +98,7 @@ class News extends CActiveRecord
 		$criteria->compare('image',$this->image,true);
 		$criteria->compare('type',$this->type,true);
 		$criteria->compare('author',$this->author,true);
+		$criteria->order = 'date_added DESC';
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,

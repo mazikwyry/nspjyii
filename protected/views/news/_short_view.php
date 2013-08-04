@@ -10,9 +10,11 @@
         <span class='st_email_large' displayText='Email'></span>
     </div>
      <div class="cl"></div>
+      <?php if(!empty($data->image)){ ?>
      <div class="image">
          <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/images/small/".$data->image, "Image"); ?>
      </div>
+    <?php } ?>
      <?php echo stripslashes(nl2br(shortenText($data->content,800))); ?>
 </article>
 <div class="comments">

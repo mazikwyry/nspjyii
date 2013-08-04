@@ -26,6 +26,7 @@ return array(
 		'application.extensions.YiinfiniteScroll.YiinfiniteScroller', //WideImage
 	),
 
+
 	'modules'=>array(
 		// uncomment the following to enable the Gii tool
 		
@@ -101,6 +102,6 @@ return array(
 	// using Yii::app()->params['paramName']
 	'params'=>array(
 		// this is used in contact page
-		'adminEmail'=>'wyry@archidiecezja.katowice.pl',
+		'adminEmail'=>'mazik.wyry@gmail.com',
 	),
 );

@@ -51,7 +51,7 @@ tinyMCE.init({
 
     
     font_formats : "Normal=Gabriola",
-    fontsize_formats: "20px 24px",
+    fontsize_formats: "23px 24px",
     fullpage_default_font_size: "20px",
     fullpage_default_font_family: "Gabriola"
 

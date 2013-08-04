@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+        <link href='http://fonts.googleapis.com/css?family=Istok+Web&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <!-- blueprint CSS framework -->
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/print.css" media="print" />
@@ -63,8 +64,10 @@
                 
                 <div class="div960">
                     <div class="rotator">
-                        <div class="rotator_el">
-                          <?php $this->rotator($this->rotator_image) ?>
+                        <div class="rotator_inside">
+                            <div class="rotator_wrapper">
+                              <?php $this->widget('application.components.RotatorWidget'); ?>
+                            </div>
                         </div>
                     </div>
                     

@@ -56,10 +56,10 @@ class SiteController extends Controller
             
             )
             );    
-            
         $this->render('index',array(
             'dataProvider'=>$dataProvider,
             'dataProviderRip'=>$dataProviderRip,
+            'xml'=>$xml
 
         ));
 	}

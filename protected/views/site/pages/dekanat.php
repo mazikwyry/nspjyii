@@ -8,13 +8,13 @@
   <p class="MsoNormal" style="MARGIN-LEFT: 35.4pt"><b><a href="http://parafia.gardawice.pl" target="_blank">Parafia św. Maksymiliana
     Kolbego</a></b><br>
     ul. Dojazdowa 32<br>
-    43-186 Orzesze 4-Gardawice<br>
+    43-186 Orzesze Gardawice<br>
     tel. 0-32/221 50 80<br>
     Liczba mieszkańców: 1717, katolików 1665<br>
     Odpust: 15 sierpnia<br>
     Msze święte: wieczorem w soboty i dni przedświąteczne: 17.00 (IX-VI, 18.00 (VII-VIII)<br>
     w niedziele i święta: 8.00, 10.30, 15.30<br>
-    Proboszcz: Ks. Marek Wachowiak</p>
+    Proboszcz: ks. Andrzej  Ahnert</p>
 
     <ol style="MARGIN-TOP: 0cm" start="2">
       <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><b>Gostyń
@@ -94,22 +94,23 @@
                           Proboszcz: ks. Adam Michalski</p>
                           <ol start="7" style="MARGIN-TOP: 0cm">
                             <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><b>Wyry</b><br>
-                              &nbsp;<br>
-                              <a href="http://www.wyry.archidiecezja.katowice.pl" target="_blank">Parafia Najświętszego
-                                Serca Pana Jezusa</a><br>
+                              &nbsp;<br></li>
+                              </ol>
+                              <p style="MARGIN-LEFT: 35.4pt"><a href="http://www.wyry.archidiecezja.katowice.pl" target="_blank"><b>Parafia Najświętszego
+                                Serca Pana Jezusa</a></b><br>
                                 ul. Ks. Franciszka Bojdoła 3, 43-175 Wyry<br>
                                 tel. 0-32/218 71 88<br>
                                 Liczba mieszkańców: 3181, katolików 3122<br>
                                 Odpust: 2 niedziela czerwca<br>
                                 Msze święte: wieczorem w soboty i dni przedświąteczne: 17.00<br>
                                 w niedziele i święta: 7.00, 9.00, 11.00, 15.30<br>
-                                ks. Aleksander Wojtala<br><br>
-                              </li>
+                                ks. Aleksander Wojtala<br><br></p>
+                            <ol>
                               <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><b>Zgoń</b></li>
                             </ol>
 
-                            <p class="MsoNormal" style="MARGIN-LEFT: 35.4pt">Parafia św. Antoniego z
-                              Padwy<br>
+                            <p class="MsoNormal" style="MARGIN-LEFT: 35.4pt"><b><a href="http://www.antonizgon.katowice.opoka.org.pl/parafia.php" target="_blank">Parafia św. Antoniego z
+                              Padwy</a></b><br>
                               Zgoń, ul. Kobiórska 6<br>
                               43-186 Orzesze 4<br>
                               tel. 0-32/221 31 43<br>

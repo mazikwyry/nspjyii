@@ -95,9 +95,10 @@ class NewsController extends Controller
 		if(isset($_POST['News']))
 		{
 			$model->attributes=$_POST['News'];
-            if($file = CUploadedFile::getInstance($model,'image'))
-                {
-                    if($model->validate()){
+
+                if($model->validate()){
+                  	if($file = CUploadedFile::getInstance($model,'image'))
+                	{
                         $extName = $file->getExtensionName();
                         if($extName=='jpeg')
                             $extName = 'jpg';
@@ -119,15 +120,13 @@ class NewsController extends Controller
                         
                         $resized = $image->resize(300, null)->crop("center", "middle", 240, 240);
                         $resized->saveToFile($srcFileMedium);
-                        
-                			if($model->save())
-                				$this->redirect(array('admin'));
-                        } 
+                    }
+        			if($model->save())
+        				$this->redirect(array('admin'));
                 }          
-                else{
-                    Yii::app()->user->setFlash('error', "There's a problem with upload!");  
-                }
+
 		}
+
 
 		$this->render('create',array(
 			'model'=>$model,

@@ -192,25 +192,33 @@
 })(jQuery);
 
 
+var counter = 1; 
+
 $(document).ready(function(){
-	
-	// setInterval(function(){
-	// 	$('#logo_img').stop(true,true).animate({'height': '+=20px','width': '+=20px', 'top': '-=10px'},100);
-	// 	$('#logo_img').stop(true,true).animate({'height': '-=20px','width': '-=20px', 'top': '+=10px'},500);
-	// },2000);
+
+    if(max>1)	
+        setInterval(function(){
+        if(counter==max){
+            $(".rotator_wrapper").animate({left:"60px"},300).animate({left:"0px"},300);
+            counter=1;
+        }else{
+            $(".rotator_wrapper").animate({left:"-=990px"},500).animate({left:"+=60px"},300);
+            counter++;
+        }
+
+        },8000);
+
 	
 	$(".menu_items li").hover(function(){
-		$(this).stop(true, true).animate({'backgroundColor': 'rgba(255,255,255, .4)'}, 100);
+		$(this).stop(true, true).animate({'backgroundColor': 'rgba(0,0,0, .05)'}, 100);
 	},function(){
 		$(this).stop(true, true).animate({'backgroundColor': 'rgba(255,255,255, 0.0)'}, 500);
 	});
 	
 	$("article").hover(function(){
-		$(this).stop(true, true).animate({'backgroundColor': 'rgba(255,255,255, .2)'}, 100);
 		$(this).css("border","1px solid #888");
 	},function(){
-		$(this).stop(true, true).animate({'backgroundColor': 'rgba(255,255,255, 0.0)'}, 500);
-		$(this).css("border","1px solid transparent");
+		$(this).css("border","1px solid #CCC");
 	});
 	
 	$(".counter").hover(function(){

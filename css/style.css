@@ -10,13 +10,23 @@
 }
 
 a{
-	color:#333;
+	color:#171717;
 	text-decoration: none;
 }
 
 a:hover{
 	color:#555;
 	text-decoration: none;
+}
+
+article a,article a:link,article a:visited{
+	color:#b80000;
+	text-decoration: none;
+}
+
+article a:hover{
+	color:#555;
+	text-decoration: underline;
 }
 
 body{
@@ -42,20 +52,21 @@ body{
 .content_all{
 	width:100%;
 	min-height:800px;
-	background-image: linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
-	background-image: -o-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
-	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
-	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
-	background-image: -ms-linear-gradient(top, rgba(255,255,255,0.4) 0%, rgba(255,255,255,0.8) 20%, rgba(255,255,255,0.95) 100%);
+	background-image: linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(255,255,255,1.0) 12%, rgba(255,255,255,1.0) 100%);
+	background-image: -o-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(255,255,255,1.0) 12%, rgba(255,255,255,1.0) 100%);
+	background-image: -moz-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(255,255,255,1.0) 12%, rgba(255,255,255,1.0) 100%);
+	background-image: -webkit-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(255,255,255,1.0) 12%, rgba(255,255,255,1.0) 100%);
+	background-image: -ms-linear-gradient(top, rgba(255,255,255,0.3) 0%, rgba(255,255,255,1.0) 12%, rgba(255,255,255,1.0) 100%);
 	
 	background-image: -webkit-gradient(
 		linear,
 		left top,
 		left bottom,
-		color-stop(0, rgba(255,255,255,0.4)),
-		color-stop(0.2, rgba(255,255,255,0.8)),
-		color-stop(1, rgba(255,255,255,0.95))
+		color-stop(0, rgba(255,255,255,0.3)),
+		color-stop(0.12, rgba(255,255,255,1.0)),
+		color-stop(1, rgba(255,255,255,1.0))
 	);
+/*	background: #FFF;*/
 	-moz-box-shadow: 0 0 8px 5px rgba(0,0,0,0.1);
 	-webkit-box-shadow: 0 0 8px 5px rgba(0,0,0,0.1);
 	box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.1);
@@ -174,13 +185,13 @@ input[type="submit"], input[type="button"]
 	font-family:Gabriola;
 	font-size:18px;
 	text-align: justify;
-	color:#333;
+	color:#171717;
 	line-height: 20px;
 	margin-bottom:30px;
 	margin-top: -110px;
 }
 
-	.rotator .rotator_el{
+	.rotator .rotator_inside{
 		position: absolute;
 		top:15px;
 		bottom:15px;
@@ -188,6 +199,23 @@ input[type="submit"], input[type="button"]
 		right:15px;
 		overflow: hidden;
 	}
+
+	
+	.rotator .rotator_wrapper{
+		position: relative;
+		left:0px;
+		overflow: hidden;
+		height: 220px;
+		width:3000px;
+	}	
+
+	.rotator .rotator_el{
+		width: 930px;
+		height: 220px;
+		position: relative;
+		float: left;
+	}
+
 
 	.rotator .rotator_el img{
 		width:100%;
@@ -224,7 +252,7 @@ input[type="submit"], input[type="button"]
 		
 			.menu_items li{
 				width:230px;
-				color:#333;
+				color:#171717;
 				padding:5px 10px;
 				background-color: rgba(255,255,255,0);
 				font-size:20px;
@@ -252,10 +280,11 @@ input[type="submit"], input[type="button"]
 		background-color: rgba(255,255,255,0);
 		border:1px solid transparent;
 		font-family:Gabriola;
-		font-size:20px;
+		font-size:22px;
 		text-align: justify;
-		color:#111;
+		color:#171717;
 		line-height: 22px;
+		border: 1px solid #CCC;
 	}
 
 	article span, article p{
@@ -274,9 +303,11 @@ input[type="submit"], input[type="button"]
 			left:-30px;
 			font-family: Gabriola;
 			font-size:30px;	
-			color:#333;
+			color:#171717;
 			margin-bottom:20px;
 			line-height: 35px;
+			width: 460px;
+			text-align: left;
 		}
 
 		
@@ -341,7 +372,7 @@ input[type="submit"], input[type="button"]
 			}
 			
 			.rip .date:after{
-				border-color: transparent #333 transparent transparent;
+				border-color: transparent #171717 transparent transparent;
 			}
 			
 					
@@ -369,7 +400,7 @@ input[type="submit"], input[type="button"]
 		}
 		
 		article .sub_menu h1:after{
-			border-color: transparent #333 transparent transparent;
+			border-color: transparent #171717 transparent transparent;
 		}
 		
 		article .sub_menu h1.active{
@@ -423,7 +454,7 @@ input[type="submit"], input[type="button"]
 		border-top: 1px solid #dcdcdc;
 		font-size:16px;
 		line-height:20px;
-		color:#333;
+		color:#171717;
 		font-family: Gabriola;
 		position: relative;
 		overflow: hidden;
@@ -583,3 +614,29 @@ footer{
 	width:100% !important;
 }	
 	
+.rotator_el h1{
+	background-color: #b80000;
+	-moz-box-shadow: 0 0 3px 3px rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0 0 3px 3px rgba(0,0,0,0.1);
+	box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.1);
+	padding: 5px 10px; 
+	font-family: Gabriola;
+	font-size:30px;	
+	color:#FFF;
+	float:left;
+	margin-right:20px;
+	position: absolute;
+	left:0px;
+	top:20px;
+}
+
+.gospel{
+	position: absolute;
+	bottom: 0px;
+	left:20px;
+	right:20px;
+	top:60px;
+	font-size: 25px;
+	text-shadow:2px 2px 6px #FFFFFF;
+
+}
