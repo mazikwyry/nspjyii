@@ -1,16 +1,13 @@
 <article class="rip">
     <div class="header">
       <div class="date"><?php echo substr($data->date_added, 8 ,2)."/".substr($data->date_added, 5 ,2)."/".substr($data->date_added, 0 ,4); ?></div>
-      Zmarł
-      
-
-      <?php
+      Zmarł<?php
       $baba=false;
         if(strpos($data->who," ")){
             $letters = str_split($data->who);
             if($letters[strpos($data->who," ")-1]=="a")
                 {
-                    echo $letters[strpos($data->who," ")];
+                    $letters[strpos($data->who," ")];
                     echo "a";
                     $baba=true;
                 }

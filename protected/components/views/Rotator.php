@@ -9,12 +9,17 @@
   	<div class='gospel'><?php echo $gospel; ?>  <a href='<?php echo $link; ?>' target='_blank' style='color:#b80000;'> czytaj więcej...</a></div>
  </div>
  <script type="text/javascript">
-  var max = 2;
+  var max = 3;
  </script>
 <?php } else {?>
   
  <script type="text/javascript">
-  var max = 1;
+  var max = 2;
  </script>
 
 <?php }?>
+<div class="rotator_el">
+ <a href="http://pielgrzymkawyry.pl" target="_blank">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/pielgrzymka.png"); ?>
+ </a>
+</div>
