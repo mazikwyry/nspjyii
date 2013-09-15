@@ -26,19 +26,22 @@
     <br/> 
     <div class="cl"></div>
     <div class="image">
-      <img src="http://www.wyry.archidiecezja.katowice.pl/images/Kiedrzyn.jpg">
+      <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/Glenc.jpg"); ?>
     </div>
-    <strong>Ks. Adam Kiedrzyn<br></strong>
-    ur. 15.12.1975 r. w Bytomiu. 
-    Ukończył Technikum Elektroniczne w Bytomiu, następnie podjął studia na Wydziale Nauk Społecznych na UŚ.
-    Po dwóch latach w 1997 r. wstąpił do Wyższego Śląskiego Seminarium Duchownego w Katowicach, a w 2001 r. został wysłany na kontynuację studiów teologicznych do Seminario San Carlo w Breganzone (Ticino) do Szwajcarii.
-    15.05.2004 r. przyjął święcenia kapłańskie z rąk ks. abpa Damiana Zimonia w katedrze katowickiej.&nbsp;<br>
-
-    Następnie pracował:&nbsp;
+    <strong>Ks. Zbigniew Glenc<br></strong>
+    Pochodzi z Parafii Niepokalanego Serca NMP w Kobyli koło Raciborza.
+    Syn Tadeusza Glenc i śp. Felicji zd. Kubek.
+    Urodzony 8 lutego 1972 roku w Rydułtowach. 
+    W latach 1991 – 1998 studiował teologię w Wyższym Śląskim Seminarium Duchownym w Katowicach.
+    Święcenia kapłańskie przyjął w dniu 16 maja 1998 roku w Katowicach z rąk ks. abp Damiana Zimonia. 
+    <br/> <br>
+    Poprzednie parafie wikariuszowskie: <br>
     <ul>
-      <li>2004 - 2005 w Breganzone,&nbsp;</li>
-      <li>2005 - 2009 w parafii Chrystusa Króla w Hołdunowie,&nbsp;</li>
-      <li>2009 - 2012 w parafii Najświętszego Serca Pana Jezusa w Rybniku Niedobczycach.</li>
+      <li>Parafia św. Marii Magdaleny w Chorzowie Starym.</li>
+      <li>Parafia Miłosierdzia Bożego w Żorach.</li>
+      <li>Parafia Wniebowzięcia NMP w Chorzowie Batorym.</li>
+      <li>Parafia Matki Boskiej Częstochowskiej w Katowicach – Podlesiu.</li>
+      <li>Parafia Wniebowzięcia NMP w Czuchowie.</li>
     </ul>
 
     <br/>
@@ -98,6 +101,7 @@
       <li>2004 - Ks. Krystian Łagowski</li>
       <li>2007 - Ks. Marcin Palka</li>
       <li>2010 - Ks. Piotr Stoll, obecnie student KUL</li>
+      <li>2012 - Ks. Adam Kiedrzyn, obecnie dyrektor Księgarni św. Jacka </li>
     </ol>
   </div>
 

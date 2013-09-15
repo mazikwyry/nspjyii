@@ -70,10 +70,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=cufal.pl;dbname=mazikwyr_nspj',
+			'connectionString' => 'mysql:host=localhost;dbname=nspj',
 			'emulatePrepare' => true,
-			'username' => 'mazikwyr_mazik',
-			'password' => 'matzik',
+			'username' => 'root',
+			'password' => '',
 			'charset' => 'utf8',
 		),
 		

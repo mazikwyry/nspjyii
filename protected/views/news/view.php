@@ -25,9 +25,9 @@ $this->menu=array(
         <span class='st_email_large' displayText='Email'></span>
     </div>
      <div class="cl"></div>
-      <?php if(!empty($data->image)){ ?>
+      <?php if(!empty($model->image)){ ?>
      <div class="image" id="medium">
-         <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/images/medium/".$data->image, "Image"); ?>
+         <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/images/medium/".$model->image, "Image"); ?>
      </div>
     <?php } ?>
      <?php echo stripslashes(nl2br($model->content)); ?>

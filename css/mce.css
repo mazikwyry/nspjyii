@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Noto Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Noto Sans"), local("NotoSans"), url("http://themes.googleusercontent.com/static/fonts/notosans/v1/erE3KsIWUumgD1j_Ca-V-z8E0i7KZn-EPnyo3HZu7kw.woff") format("woff");
+}
+
+body{
+	font-family: "Noto Sans" !important;
+	font-size: 14px !important;
+}

@@ -44,16 +44,16 @@ tinyMCE.init({
     language : 'pl',
 
     // Example content CSS (should be your site CSS)
-    //content_css : "/css/style.css",
+    content_css : "<?php echo Yii::app()->request->baseUrl; ?>/css/mce.css",
 
     width : "600",
     forced_root_block : false,
 
     
-    font_formats : "Normal=Gabriola",
-    fontsize_formats: "23px 24px",
-    fullpage_default_font_size: "20px",
-    fullpage_default_font_family: "Gabriola"
+    font_formats : "Noto=Noto Sans",
+    fontsize_formats: "13px 14px 16px",
+    fullpage_default_font_size: "14px",
+    fullpage_default_font_family: "Noto Sans"
 
 });
      </script>
