@@ -128,7 +128,8 @@
                 
                 <div class="cl"></div>
                 <div class="copyright">
-                    Wszelkie prawa zastrzeżone przez Parafię NSJP w Wyrach &copy; <?php echo date('Y'); ?>. Design and developed by <a href="http://cufal.pl/bs">studiomotylek</a>
+                    Wszelkie prawa zastrzeżone przez Parafię NSJP w Wyrach &copy; <?php echo date('Y'); ?>. Design and developed by <a href="http://cufal.pl/bs">studiomotylek</a><br/>
+                    Nieniejsza strona internetowa używa plików cookies. Korzystanie z niej oznacza, że będą one umieszczane w Twoim urządzeniu końcowym. <br/> Jeżeli się na to nie zgadzasz opuść stronę lub zmień ustawienia dotyczące plików cookies w swojej przeglądarce. 
                 </div>
                 
             </div>

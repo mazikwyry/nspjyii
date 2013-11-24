@@ -27,7 +27,7 @@
                 <div class="counter">Komentarze ('.$ile.')</div>
                 <div class="cl"></div>
                 <div class="comments_list" style="display: none;">';
-                    $comments=new CArrayDataProvider($data->comments);   
+                    $comments=new CArrayDataProvider(array_slice($data->comments,0,5));   
                     $comments->setTotalItemCount(2);
                     $this->widget('zii.widgets.CListView', array(
                         'dataProvider'=>$comments,
@@ -35,7 +35,7 @@
                         'summaryText'=>'',
                     ));
                      echo'<div class="one_comment">'; 
-                        if($ile>10)
+                        if($ile>5)
                             echo CHtml::link(CHtml::button('Więcej komentarzy...', array('style'=>'float:left; cursor:pointer;')), array('news/view', 'id'=>$data->id));
                         echo CHtml::link(CHtml::button('Dodaj komentarz', array('style'=>'float:left; cursor:pointer;')), array('news/view', 'id'=>$data->id));
                     echo'</div>';

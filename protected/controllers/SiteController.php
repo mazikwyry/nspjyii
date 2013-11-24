@@ -33,7 +33,7 @@ class SiteController extends Controller
 		
 		$criteria = new CDbCriteria;
         $criteria->order = 'date_added DESC';
-        $criteria->condition = "type='news'";
+        $criteria->condition = "type='news' AND id>0";
         
 		$dataProvider=new CActiveDataProvider(News::model(),array(         
                 'criteria'=>$criteria,
@@ -55,11 +55,13 @@ class SiteController extends Controller
                 ),
             
             )
-            );    
+            );   
+
+        $discussion = News::model()->findByPk(0); 
         $this->render('index',array(
             'dataProvider'=>$dataProvider,
             'dataProviderRip'=>$dataProviderRip,
-            'xml'=>$xml
+            'discussion'=>$discussion,
 
         ));
 	}
@@ -84,6 +86,30 @@ class SiteController extends Controller
             
         $this->render('blog',array(
             'dataProvider'=>$dataProvider
+
+        ));
+	}
+
+	public function actionDyskusja()
+	{
+        $discussion = News::model()->findByPk(0); 
+
+        $criteria = new CDbCriteria;
+        $criteria->order = 'date_added DESC';
+        $criteria->condition = "news_id=$discussion->id and visible=1";
+        
+        $comments=new CActiveDataProvider(Comments::model(),array(         
+                'criteria'=>$criteria,
+                'pagination'=>array(
+                    'pageSize'=>15,
+                ),
+            
+            )
+            );
+        $this->render('dyskusja',array(
+            'discussion'=>$discussion,
+            'comments'=>$comments,
+
 
         ));
 	}

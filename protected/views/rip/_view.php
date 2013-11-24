@@ -13,9 +13,7 @@
                 }
         }
 
-      ?>
-      
-     <?php echo $data->who; ?>
+      ?> ś.p. <?php echo $data->who; ?>
     </div>
     <div class="cl"></div>
     <div class="image">

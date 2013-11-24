@@ -91,6 +91,7 @@
         <li><a><?php echo CHtml::link("Blog parafialny",Yii::app()->createUrl('/site/blog')); ?></a></li>        
         <li><a><?php echo CHtml::link("Dekanat",array('/site/page', "view"=>"dekanat")); ?></a></li> 
         <li><a><?php echo CHtml::link("Polecamy",array('/site/page', "view"=>"linki")); ?></a></li> 
+        <li><a><?php echo CHtml::link("Dyskusja",Yii::app()->createUrl('/site/dyskusja')); ?></a></li> 
         <!-- <li><a>Księga gości</a></li> -->
     </ul>
 </div>

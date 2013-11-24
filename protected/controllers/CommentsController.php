@@ -88,12 +88,16 @@ class CommentsController extends Controller
 		if(isset($_POST['Comments']))
 		{
 			$model->attributes=$_POST['Comments'];
+			if(Yii::app()->user->group==4 || Yii::app()->user->group==5){
+				$model->visible = 1;
+			}
 			if($model->save()){
 				
 				$headers= "From: wyry@archidiecezja.katowice.pl\r\nReply-To: wyry@archidiecezja.katowice.pl";
 				$body = "Nowy komentarz został dodany na stronie parafialnej. Kliknij link poniżej aby zaakceptować:\n\n http://www.wyry.archidiecezja.katowice.pl/comments/admin";
-				mail("olo@katowice.opoka.org.pl, mazik.wyry@gmail.com", "Nowy komentarz na stronie parafialnej", $body, $headers);
-			    
+				if(!(Yii::app()->user->group==4 || Yii::app()->user->group==5)){
+					mail("olo@katowice.opoka.org.pl, mazik.wyry@gmail.com", "Nowy komentarz na stronie parafialnej", $body, $headers);
+			    }
 			    $criteria = new CDbCriteria;
                 $criteria->order = 'date_added DESC';
                 $criteria->condition = "news_id=$model->news_id";
