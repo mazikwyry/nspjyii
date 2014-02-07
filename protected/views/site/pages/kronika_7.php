@@ -45,3 +45,38 @@ Po przedstawieniu została odprawiona Msza Święta.</p>
 <p>Mijający rok podsumowaliśmy w czasie Mszy Świętej i nabożeństwa na zakończenie roku kalendarzowego, w sylwestrowy wieczór o godz. 17.00. <br>
 Za wszystkie łaski, które otrzymaliśmy od Boga w mijającym roku dziękowaliśmy podczas adoracji w sylwestrową noc. <br>
 Rok 2012 zakończyliśmy odśpiewaniem o północy uroczystego Te Deum laudamus.
+<p align="center"><strong>Rok 2013</strong> </p>
+<p>Nowy 2013 Rok przywitaliśmy wraz z Chrystusem Eucharystycznym. Podczas adoracji w sylwestrową noc polecaliśmy Bogu sprawy całej parafii, prosiliśmy również w modlitwie o łaskę pokoju dla świata. </p>
+<p>20. stycznia odbył się koncert kolęd w wykonaniu Eleni. Koncert zorganizowała nasza parafia, Dom Kultury w Gostyni i Gmina Wyry.</p>
+<p>10. lutego, z okazji Światowego Dnia Chorego, została odprawiona Msza Święta w intencji wszystkich chorych i starszych parafian. Podczas Mszy został udzielony sakrament namaszczenia chorych.</p>
+<p>W dniach od 24. do 27 lutego, przeżywaliśmy rekolekcje wielkopostne. Wygłosił je student Katolickiego Uniwersytetu Lubelskiego, rezydent w naszej parafii ks. Piotr Stoll.</p>
+<p>28. lutego została odprawiona Msza Święta dziękczynna za dar pontyfikatu ojca św. Benedykta XVI.</p>
+<p>W marcu rozpoczął się kolejny etap remontu naszego kościoła. Wymieniono wszystkie elementy drewniane nad stropem kościoła – podesty i poręcze.</p>
+<p>W niedzielę 10. marca odbył się koncert pieśni wielkopostnych w wykonaniu chóru „Zorza”</p>
+<p>W piątek 22. marca po raz pierwszy w naszej parafii braliśmy udział w Drodze Krzyżowej, która szła ulicami naszej miejscowości.</p>
+<p>24. marca młodzież wystawiła przedstawienie pt. „Proces Obywatela J.”</p>
+<p>2. kwietnia obchodziliśmy 8 rocznicę śmierci. Bł. Jana Pawła II. Z tej okazji odbyło się: czuwanie modlitewne i spotkanie z panią Aleksandrą Zapotoczny, która współpracowała z ks. Sławomirem Oderem postulatorem w procesie beatyfikacyjnym i kanonizacyjnym Jana Pawła II.  </p>
+<p>7. kwietnia w niedzielę uczestniczyliśmy w nabożeństwie do Miłosierdzia Bożego. Podczas Koronki, uczciliśmy relikwie św. siostry Faustyny.</p>
+<p>W niedzielę 12. maja miała miejsce w naszej parafii Uroczystość Pierwszej i Wczesnej Komunii Świętej. Po raz pierwszy do stołu eucharystycznego przystąpiło 46 dzieci. Do Wczesnej Komunii przystąpiło 4 dzieci.</p>
+<p>19 maja miał miejsce piknik rowerowy dla całych rodzin. Po wycieczce spotkaliśmy się przy ognisku na farskim placu.</p>
+<p>26. maja kilkunastoosobowa grupa mężczyzn naszej parafii, pod przewodnictwem ks. Adama Kiedrzyna, udała się na pielgrzymkę rowerową do Matki Bożej Piekarskiej.</p>
+<p>W czerwcu rozpoczął się remont ubikacji przy naszym kościele. Przy okazji dziękujemy wszystkim sponsorom i zaangażowanym w ten remont.</p>
+<p>4. czerwca 26 chłopców i 14 dziewczyn z  naszej parafii w kościele Męczeństwa Świętego Jana Chrzciciela w Łaziskach Średnich przyjęło z rąk ks. Rudolfa Broma sakrament bierzmowania.</p>
+<p>W niedzielę 9. czerwca przeżywaliśmy odpust parafialny. Uroczystej sumie odpustowej przewodniczył i kazanie wygłosił rezydent naszej parafii ks. Piotr Stoll.</p>
+<p>23. czerwca wsparliśmy materialnie budowę kościoła na Mąkołowcu.</p>
+<p>3 lipca Apostolstwo Dobrej Śmierci wyjechało na pielgrzymkę do Ludźmierza.</p>
+<p>W dniach od 20. do 23. sierpnia, z naszej parafii wyruszyła XXI piesza pielgrzymka na Jasną Górę. Pielgrzymkę  poprowadzili ks. Piotr Stoll. W pieszej pielgrzymce uczestniczyło 140 pątników. W ostatnim dniu do pielgrzymów pieszych dołączyło 180 pielgrzymów, którzy przybyli do Częstochowy autokarami i samochodami. Przed Cudownym Obrazem Królowej Polski pielgrzymi uczestniczyli we Mszy Świętej.</p>
+<p> Po mszy została odprawiona Droga Krzyżowa, a w godzinach popołudniowych pielgrzymi zgromadzili się na wspólnej modlitwie – Koronce do Miłosierdzia Bożego. Wieczorem wszyscy spotkali się w naszej parafialnej świątyni, by podziękować Bożemu Sercu za szczęśliwy powrót do domu. Już dziś zapraszamy na XXII pieszą pielgrzymkę do Częstochowy i dziękujemy wszystkim sponsorom i zaangażowanym w organizowanie naszej pielgrzymki.</p>
+<p>Dekretem ks. Arcybiskupa ks. Zbigniew Glenc został mianowany wikariuszem naszej parafii. Ks. Adam Kiedrzyn dekretem ks. Arcybiskupa został mianowany Prezesem Księgarni św. Jacka w Katowicach.</p>
+<p>We wrześniu rozpoczęły się prace związane z naprawą witraży uszkodzonych przez gradobicie. Ekspertyza wykazała, że wszystkie witraże w naszym kościele wymagają przeołowienia i zabezpieczenia szybami zespolonymi. W tym samym czasie rozpoczęła się wymiana instalacji elektrycznej i akustycznej.</p>
+<p>29. września zebraliśmy ofiary na budowę kościoła w Miropolu na Ukrainie.</p>
+<p>6. października zebraliśmy ofiary na pomoc dla ofiar wojny w Syrii.</p>
+<p>13. października odbyła się zbiórka  na fundusz Dzieło Nowego Tysiąclecia, z którego wypłacane są stypendia dla młodzieży.</p>
+<p>20. października, kolekta przeznaczona była na budowę kościoła pod wezwaniem Św. ojca Pio na Mąkołowcu.</p>
+<p>10. listopada została zebrana ofiara na pomoc Kościołowi w Potrzebie.</p>
+<p>11 listopada odbył się w naszym kościele koncert „Stabat Mater” Giovanniego Baptisty Pergolesiego. Koncert był „cegiełką” na renowację witraży.</p>
+<p>8. grudnia  zbierana była ofiara w ramach :”Pomocy Kościołowi na Wschodzie”.</p>
+<p>15 grudnia w niedzielę odprawiona została Msza Święta w intencji „Dzwoneczków” z okazji 10-lecia posługi w naszej parafii.</p>
+<p>18. grudnia w naszym kościele dzieci z Ośrodka Szkolno - Rehabilitacyjnego w Wyrach w raz z wychowawcami  i opiekunami uczestniczyli we Mszy Świętej. Po Mszy miało miejsce wspólne kolędowanie.</p>
+<p>Jak co roku pół godziny przed Pasterką młodzież oazowa przygotowała czuwanie. Wprowadzenie do przeżycia Mszy Narodzenia Pańskiego miało charakter przedstawienia.</p>
+<p>Mijający rok podsumowaliśmy w czasie Mszy Świętej i nabożeństwa na zakończenie roku kalendarzowego, w sylwestrowy wieczór o godz. 17.00. Za wszystkie łaski, które otrzymaliśmy od Boga w mijającym roku dziękowaliśmy podczas adoracji w sylwestrową noc. Rok 2013 zakończyliśmy odśpiewaniem o północy uroczystego Te Deum laudamus.</p>

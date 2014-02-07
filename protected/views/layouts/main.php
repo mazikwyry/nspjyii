@@ -123,7 +123,7 @@
 
                     ul. Ks. Franciszka Bojdoła 3, <br/>
                     43-175 Wyry<br/>
-                    tel: 032 218 71 88<br/>
+                    tel: 32 218 71 88<br/>
                 </div>
                 
                 <div class="cl"></div>

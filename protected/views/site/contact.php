@@ -74,7 +74,7 @@ $this->breadcrumbs=array(
 	<strong style="color:#B80000;">Parafia Rzymsko-Katolicka pw. Najświętszego Serca Pana Jezusa w Wyrach</strong></br>
 	ul. Ks. Franciszka Bojdoła 3, <br/>
 	43-175 Wyry<br/>
-	tel: 032 218 71 88<br/>
+	tel: 32 218 71 88<br/>
 	wyry [at] archidiecezja.katowice.pl
 	<br/><br/>
 	Bank Spółdzielczy w Tychach:<br>

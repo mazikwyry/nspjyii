@@ -206,7 +206,7 @@ $(document).ready(function(){
             counter++;
         }
 
-        },8000);
+        },17000);
 
 	
 	$(".menu_items li").hover(function(){

@@ -70,10 +70,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=nspj',
+			'connectionString' => 'mysql:host=176.119.33.99;dbname=mazikwyr_nspj',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'mazikwyr_mazik',
+			'password' => 'matzik',
 			'charset' => 'utf8',
 		),
 		
