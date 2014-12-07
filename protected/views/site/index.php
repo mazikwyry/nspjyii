@@ -8,7 +8,7 @@ if ($dataProviderRip->itemCount>0){
 	)); 
 }
 ?>
-<article style="margin-bottom:30px;">
+<!-- <article style="margin-bottom:30px;">
     <div class="header">
       <div class="date">Ostatnie wypowiedzi w dyskusji</div>
     </div>
@@ -39,7 +39,7 @@ if ($dataProviderRip->itemCount>0){
             }
        ?>
 	</div>	
-</article>
+</article> -->
 
 
 

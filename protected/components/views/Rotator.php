@@ -1,3 +1,11 @@
+<!-- <div class="rotator_el">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniawn.png"); ?>
+</div> -->
+<!-- <div class="rotator_el">
+ <a href="http://pielgrzymkawyry.pl" target="_blank">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/pielgrzymka.png"); ?>
+ </a>
+</div> -->
 <div class="rotator_el">
  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/4.jpg"); ?>
 	 <h1 id="day_desc" style="background-color:rgba(255,255,255,0.7); color: #333; top:auto; bottom:20px; left:auto; right:-20px; font-size:18px; padding:10px;">
@@ -28,11 +36,7 @@
  </script>
 
 <?php }?>
-<!-- <div class="rotator_el">
- <a href="http://pielgrzymkawyry.pl" target="_blank">
-  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/pielgrzymka.png"); ?>
- </a>
-</div> -->
+
 
 <script type="text/javascript">
 	$(document).ready(function() {

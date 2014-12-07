@@ -90,30 +90,6 @@ class SiteController extends Controller
         ));
 	}
 
-	public function actionDyskusja()
-	{
-        $discussion = News::model()->findByPk(0); 
-
-        $criteria = new CDbCriteria;
-        $criteria->order = 'date_added DESC';
-        $criteria->condition = "news_id=$discussion->id and visible=1";
-        
-        $comments=new CActiveDataProvider(Comments::model(),array(         
-                'criteria'=>$criteria,
-                'pagination'=>array(
-                    'pageSize'=>15,
-                ),
-            
-            )
-            );
-        $this->render('dyskusja',array(
-            'discussion'=>$discussion,
-            'comments'=>$comments,
-
-
-        ));
-	}
-
 		public function actionAdmin()
 	{
             

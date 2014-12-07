@@ -62,9 +62,10 @@
         Grupy Parafialne
     </div>
     <ul class="menu_items">
-        <li><a href="http://www.nspj-wyry.katowice.opoka.org.pl/Pielgrzymki">Pielgrzymka</a></li>
+        <li><a href="http://pielgrzymkawyry.pl">Pielgrzymka</a></li>
         <li><?php echo CHtml::link("Ministranci",array('/site/page', 'view'=>'ministranci')); ?></li>
         <li><a href="http://www.nspj-wyry.katowice.opoka.org.pl/Oaza" target="_blank">Oaza</a></li>
+        <li><?php echo CHtml::link("Apostolstwo Dobrej Śmierci",array('/site/page', 'view'=>'apostolstwo')); ?></li>
         <li><?php echo CHtml::link("Formacja Studentów",array('/site/page', 'view'=>'studenci')); ?></li>
        <!--  <li><a><?php echo CHtml::link("Dzwoneczki",array('/site/page', 'view'=>'dzwoneczki')); ?></a></li>
         <li><a><?php echo CHtml::link("Dzieci Maryii",array('/site/page', 'view'=>'dzieci')); ?></a></li> -->
@@ -91,7 +92,7 @@
         <li><a><?php echo CHtml::link("Blog parafialny",Yii::app()->createUrl('/site/blog')); ?></a></li>        
         <li><a><?php echo CHtml::link("Dekanat",array('/site/page', "view"=>"dekanat")); ?></a></li> 
         <li><a><?php echo CHtml::link("Polecamy",array('/site/page', "view"=>"linki")); ?></a></li> 
-        <li><a><?php echo CHtml::link("Dyskusja",Yii::app()->createUrl('/site/dyskusja')); ?></a></li> 
+        <!-- <li><a><?php echo CHtml::link("Dyskusja",Yii::app()->createUrl('/site/dyskusja')); ?></a></li>  -->
         <!-- <li><a>Księga gości</a></li> -->
     </ul>
 </div>
