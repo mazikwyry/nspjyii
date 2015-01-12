@@ -80,3 +80,28 @@ Rok 2012 zakończyliśmy odśpiewaniem o północy uroczystego Te Deum laudamus.
 <p>18. grudnia w naszym kościele dzieci z Ośrodka Szkolno - Rehabilitacyjnego w Wyrach w raz z wychowawcami  i opiekunami uczestniczyli we Mszy Świętej. Po Mszy miało miejsce wspólne kolędowanie.</p>
 <p>Jak co roku pół godziny przed Pasterką młodzież oazowa przygotowała czuwanie. Wprowadzenie do przeżycia Mszy Narodzenia Pańskiego miało charakter przedstawienia.</p>
 <p>Mijający rok podsumowaliśmy w czasie Mszy Świętej i nabożeństwa na zakończenie roku kalendarzowego, w sylwestrowy wieczór o godz. 17.00. Za wszystkie łaski, które otrzymaliśmy od Boga w mijającym roku dziękowaliśmy podczas adoracji w sylwestrową noc. Rok 2013 zakończyliśmy odśpiewaniem o północy uroczystego Te Deum laudamus.</p>
+<p align="center"><strong>Rok 2014</strong> </p>
+<p>Nowy 2014 Rok przywitaliśmy wraz z Chrystusem Eucharystycznym. Podczas adoracji w sylwestrową noc polecaliśmy Bogu sprawy całej parafii, prosiliśmy również w modlitwie o łaskę pokoju dla świata. </p>
+<p>12. stycznia nieszpory kolędowe uświetnił Chór „Zorza”</p>
+<p>2. marca została zebrana ofiara na pomoc dla poszkodowanych na Ukrainie</p>
+<p>W dniach od 9. do 12. marca, przeżywaliśmy rekolekcje wielkopostne. Wygłosił je nasz były wikariusz ks. Adam Kiedrzyn.</p>
+<p>15. marca w parafii Matki Bożej Różańcowej w Świętochłowicach Chropaczowie nasz kleryk Przemysław Budniak przyjął święcenia diakonatu.</p>
+<p>6. kwietnia wsparliśmy naszymi ofiarami budowę kościoła na Mąkołowcu.</p>
+<p>11. kwietnia odbyła się Droga Krzyżowa, która szła ulicami naszej miejcowości.</p>
+<p>W dniach 24. i 25.kwietnia, braliśmy udział w nabożeństwach do bł. Jana Pawła II.</p>
+<p>27. kwietnia w niedzielę Miłosierdzia Bożego, przeżywaliśmy uroczystość kanonizacji dwóch papieży, Jana XXIII i Jana Pawła II. </p>
+<p>W niedzielę 11. maja miała miejsce w naszej parafii Uroczystość Pierwszej i Wczesnej Komunii Świętej. Po raz pierwszy do stołu eucharystycznego przystąpiło 44 dzieci.Do Wczesnej Komunii przystąpiło 5 dzieci.</p>
+<p>25. maja kilkunastoosobowa grupa mężczyzn naszej parafii, pod przewodnictwem ks. Adama Kiedrzyna, udała się na pielgrzymkę rowerową do Matki Bożej Piekarskiej.</p>
+<p>28. maja 12 chłopców i 13 dziewczyn z  naszej parafii w kościele Męczeństwa Świętego Jana Chrzciciela w Łaziskach Średnich przyjęło z rąk ks. Rudolfa Broma sakrament bierzmowania.</p>
+<p>W niedzielę 8. czerwca przeżywaliśmy odpust parafialny. Uroczystej sumie odpustowej przewodniczył i kazanie wygłosił ks. Adam Kiedrzyn.</p>
+<p>W dniach od 20. do 22. czerwca, Róże Różańcowe brały udział w pielgrzymce do Staniątek, Niepołomic, Bochni, Tuchowa i Tarnowa.</p>
+<p>W czerwcu zakończyły się prace związane z naprawą witraży. Serdeczne Bóg Zapłać za składane ofiary na ten cel.</p>
+<p>Również w czerwcu zakończyły się prace związane z wymianą instalacji elektrycznej i akustycznej oraz z naprawą części witraży w naszym kościele.</p>
+<p>15 sierpnia siostra Aleksandra Markiel pochodząca z naszej parafii złożyła Śluby Wieczyste.</p>
+<p>W dniach od 20. do 23. sierpnia, z naszej parafii wyruszyła XXII piesza pielgrzymka na Jasną Górę. Pielgrzymkę  poprowadzili ks. Piotr Stoll. W ostatnim dniu do pielgrzymów pieszych dołączyli pielgrzymi, którzy przybyli do Częstochowy autokarami i samochodami. Przed Cudownym Obrazem Królowej Polski pielgrzymi uczestniczyli we Mszy Świętej. Przed mszą została odprawiona Droga Krzyżowa, a w godzinach popołudniowych pielgrzymi zgromadzili się na wspólnej modlitwie – Koronce do Miłosierdzia Bożego. Wieczorem wszyscy spotkali się w naszej parafialnej świątyni, by podziękować Bożemu Sercu za szczęśliwy powrót do domu. Już dziś zapraszamy na XXIII pieszą pielgrzymkę do Częstochowy i dziękujemy wszystkim sponsorom i zaangażowanym w organizowanie naszej pielgrzymki.</p>
+<p>2. listopada zebraliśmy ofiary na odbudowę Katedry w Sosnowcu, która ucierpiała w wyniku pożaru.</p>
+<p>23. listopada, kolekta przeznaczona była na budowę kościoła pw. Św. ojca Pio na Mąkołowcu.</p>
+<p>18. grudnia w naszym kościele dzieci z Ośrodka Szkolno - Rehabilitacyjnego w Wyrach w raz z wychowawcami  i opiekunami uczestniczyli we Mszy Świętej. Po Mszy miało miejsce wspólne kolędowanie.</p>
+<p>Jak co roku pół godziny przed Pasterką młodzież oazowa przygotowała czuwanie. Wprowadzenie do przeżycia Mszy Narodzenia Pańskiego miało charakter przedstawienia.</p>
+<p>Mijający rok podsumowaliśmy w czasie Mszy Świętej i nabożeństwa na zakończenie roku kalendarzowego, w sylwestrowy wieczór o godz. 17.00. Za wszystkie łaski, które otrzymaliśmy od Boga w mijającym roku dziękowaliśmy podczas adoracji w sylwestrową noc. Rok 2014 zakończyliśmy odśpiewaniem o północy uroczystego Te Deum laudamus.</p>
+<p>Podziękowanie: za wykonanie podstawy pod figurę MB Fatimskiej, szafek w zakrystii, nowej gablotki, za wykonanie i zamontowanie nowego Krzyża Misyjnego, za naprawę kurantów i wyremontowanie zakrystii i ks. wikaremu za stajenkę.</p>

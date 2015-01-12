@@ -1,5 +1,5 @@
 <!-- <div class="rotator_el">
-  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniawn.png"); ?>
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniabn.jpg"); ?>
 </div> -->
 <!-- <div class="rotator_el">
  <a href="http://pielgrzymkawyry.pl" target="_blank">

@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <link href='http://fonts.googleapis.com/css?family=Noto+Sans&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <!-- blueprint CSS framework -->
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->request->baseUrl; ?>/css/screen.css" media="screen, projection" />
@@ -52,12 +53,16 @@
                             <?php echo CHtml::link("ogłoszenia",Yii::app()->createUrl("content/view", array("id"=>2))); ?>
                             <?php echo CHtml::link("intencje",Yii::app()->createUrl("content/view", array("id"=>1))); ?>
                             <div class="pause"></div>
-                            <a href="http://picasaweb.google.pl/parafia.wyry" target="_blank">galeria</a>
-                            <?php echo CHtml::link("kontakt",Yii::app()->createUrl('/site/contact')); ?>
+                            <span class="no-mobile"><a href="http://picasaweb.google.pl/parafia.wyry" target="_blank">galeria</a></span>
+                            <span class="no-mobile"><?php echo CHtml::link("kontakt",Yii::app()->createUrl('/site/contact')); ?></span>
                         </div>
                     </nav>
-                    <div class="div960" style="height:289px;">
+                    <div class="div960 logo" style="height:289px;">
+                        <div class="mobile_menu" id="hamburger">
+                            <div class="mobile_menu_button-hamburger" id="hamburger_icon"></div>
+                        </div>
                         <?php echo CHtml::link(CHtml::image(Yii::app()->request->baseUrl."/images/gfx/logo.png","logo",array('id'=>'logo_img')),Yii::app()->request->baseUrl."/") ; ?>
+                        <span class="title_mobile">NSPJ Wyry</span>
                     </div>
 
                 </header>
@@ -116,7 +121,7 @@
                 </div>
 
                 
-                  <div class="section" style="float:right; width:300px; height:auto; padding:0px;border:0; margin-right: 0px; text-align: right;">
+                  <div class="section right_sec">
                     <h2>
                         Kontakt
                     </h2>
