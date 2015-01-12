@@ -886,3 +886,31 @@ screen and (-webkit-min-device-pixel-ratio: 2) and (max-width : 520px) {
 
 
 }
+
+@media screen and (max-width: 350px),
+screen and (-webkit-min-device-pixel-ratio: 2) and (max-width : 350px) {
+
+
+	.title_mobile{
+		display: none;
+	}
+
+	article .image{
+		display: none;
+	}
+
+	article{
+		width: 82%;
+	}
+
+	article .header .date{
+		font-size: 20px;
+	}
+
+	article .header{
+		font-size: 20px;
+		line-height: 100%;
+	}
+
+
+}
