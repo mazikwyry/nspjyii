@@ -19,8 +19,8 @@ To activate your account and set the new password please click on this link:<br/
 or you can go to this address<br/>
 <?php echo $data['{link}']; ?><br/>
 and insert in the form the following data<br/>
-username: <b><?php echo $data['{username}']; ?></b><br/>
-activation code: <b><?php echo $data['{activation_code}']; ?></b></p>
+username: <strong><?php echo $data['{username}']; ?></strong><br/>
+activation code: <strong><?php echo $data['{activation_code}']; ?></strong></p>
 
 <?php if ($data['{temporary_username}']) { ?>
 <p>You will be able to change the username when you activate the account</p>

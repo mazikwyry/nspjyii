@@ -1,11 +1,12 @@
-<!-- <div class="rotator_el">
-  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniabn.jpg"); ?>
+<!--  <div class="rotator_el">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniawn.png"); ?>
 </div> -->
-<!-- <div class="rotator_el">
- <a href="http://pielgrzymkawyry.pl" target="_blank">
-  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/pielgrzymka.png"); ?>
- </a>
-</div> -->
+<div class="rotator_el">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniabn.png"); ?>
+</div>
+<div class="rotator_el">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/bm.png"); ?>
+</div>
 <div class="rotator_el">
  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/4.jpg"); ?>
 	 <h1 id="day_desc" style="background-color:rgba(255,255,255,0.7); color: #333; top:auto; bottom:20px; left:auto; right:-20px; font-size:18px; padding:10px;">
@@ -27,12 +28,12 @@
   	<div class='gospel'><?php echo $gospel; ?>  <a href='<?php echo $link; ?>' target='_blank' style='color:#b80000;'> czytaj więcej...</a></div>
  </div>
  <script type="text/javascript">
-  var max = 2;
+  var max = 4;
  </script>
 <?php } else {?>
   
  <script type="text/javascript">
-  var max = 1;
+  var max = 3;
  </script>
 
 <?php }?>

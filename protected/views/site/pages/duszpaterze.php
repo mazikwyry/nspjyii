@@ -10,41 +10,18 @@
     <div class="image">
      <img src="http://www.wyry.archidiecezja.katowice.pl/images/faroz.jpg">
     </div>
-    <strong>Ks. Proboszcz Aleksander Wojtala </strong>
-    <br>Urodzony 9.08.1957 Świętochłowice. Sakrament Chrztu Św. I Komunia: w Parafii Ścięcia św. Jana Chrzciciela w Rudzie Śl. – Goduli. Sakrament bierzmowania w Parafii Św. Wawrzyńca i Antoniego w Rudzie Śl. – Wirku. Egzamin maturalny zdałem w 1976 roku w II LO im. Gustawa Morcinka w Rudzie Śl. 10. W tymże samym roku wstąpiłem do Wyższego Śląskiego Seminarium Duchownego w Krakowie, które ukończyłem w 1983 roku w Katowicach. 31.III. 1983 roku przyjąłem święcenia kapłańskie w Katedrze Chrystusa Króla w Katowicach z rąk Ks. Bpa dr Herberta Bednorza. 
-    <br>Po święceniach przez cztery miesiące pracowałem w Parafii Św. Krzysztofa w Tychach, a następnie: 
-    <ul>
-      <li> 1983 – 1986 - Parafia Krzyża Świętego – Siemianowice </li>
-      <li> 1986 – 1989 - Parafia Matki Bożej Uzdrowienia Chorych – Orłowiec </li>
-      <li> 1989 – 1991 - ParafiaNiepokalanego Serca N M P – Książenice </li>
-      <li> 1991 – 1994 - Parafia Św. Antoniego – Siemianowice </li>
-      <li> 1994 – 1997 - Parafia M B Nieustającej Pomocy – Kozłowa Góra </li>
-      <li> 1997 – 1999 - Parafia Św. Rodziny i Św. Maksymiliana Kolbe – Katowice </li>
-      <li> od 12.XII.1999 - Parafia NSPJ Wyry - Administrator </li>
-      <li> od 15.XI. 2001 - Parafia NSPJ Wyry - Proboszcz</li>
-    </ul>
-    <br/> 
+    <strong>Ks. Proboszcz Henryk Skorupa </strong>
+       ur. 6.01.1967 roku w Rudzie Śląskiej, święcenia prezbiteratu przyjął od ks. abp. Damiana Zimonia 14.05.1994 r w Archikatedrze Chrystusa Króla w Katowicach, mgr lic. teologii, od 2015 roku proboszcz naszej parafii.
+    <br/><br/><br/>
     <div class="cl"></div>
     <div class="image">
-      <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/Glenc.jpg"); ?>
+      <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/Kiedrzyn.jpg"); ?>
     </div>
-    <strong>Ks. Zbigniew Glenc<br></strong>
-    Pochodzi z Parafii Niepokalanego Serca NMP w Kobyli koło Raciborza.
-    Syn Tadeusza Glenc i śp. Felicji zd. Kubek.
-    Urodzony 8 lutego 1972 roku w Rydułtowach. 
-    W latach 1991 – 1998 studiował teologię w Wyższym Śląskim Seminarium Duchownym w Katowicach.
-    Święcenia kapłańskie przyjął w dniu 16 maja 1998 roku w Katowicach z rąk ks. abp Damiana Zimonia. 
-    <br/> <br>
-    Poprzednie parafie wikariuszowskie: <br>
-    <ul>
-      <li>Parafia św. Marii Magdaleny w Chorzowie Starym.</li>
-      <li>Parafia Miłosierdzia Bożego w Żorach.</li>
-      <li>Parafia Wniebowzięcia NMP w Chorzowie Batorym.</li>
-      <li>Parafia Matki Boskiej Częstochowskiej w Katowicach – Podlesiu.</li>
-      <li>Parafia Wniebowzięcia NMP w Czuchowie.</li>
-    </ul>
+    <strong>Ks. Adam Kiedrzyn<br></strong>
+    ur. 15.12.1975r. w Bytomiu. W 1997r. wstępuje do Wyższego Śląskiego Seminarium Duchownego w Katowicach. W 2001r. udał się na kontynuację studiów teologicznych do Seminario San Carlo w Breganzone (Ticino) do Szwajcarii. 15.05.2004r. przyjął święcenia kapłańskie z rąk ks. Abpa Damiana Zimonia w katedrze katowickiej.
+    Pracował w parafiach Najświętszego Serca Pana Jezusa w Rybniku Niedobczycach, Najświętszego Serca Pana Jezusa w Wyrach. Aktualnie pełni funkcję Dyrektora Księgarni Św. Jacka w Katowicach i pomaga w naszej parafii (odpowiedzialny za grupę ministrantów).
 
-    <br/>
+    <br/><br/><br/>
     <div class="cl"></div>
     <div class="image">
       <img src="http://www.wyry.archidiecezja.katowice.pl/images/Stoll.jpg">
@@ -75,12 +52,13 @@
     <ol>
       <li>1919 - pierwszy duszpasterz w Wyrach Ks. Teofil Kocurek, mianowany przez Książęco - Biskupi Generalny Wikariat we Wrocławiu.</li>
       <li>1923 - Ks. Jan Janota +<em>15 czerwca 1968 r.</em> </li>
-      <li>1964 - Ks. Stanisław Adamczyk </li>
+      <li>1964 - Ks. Stanisław Adamczyk +<em>24 lipca 2012</em> </li>
       <li>1971 - Ks. dr Franciszek Leśnik +<em>14 listopada 1991</em> </li>
       <li>1982 - Ks. Ryszard Sosna +<em>29 września 1983</em> </li>
-      <li>1983 - Ks. Franciszek Rajca </li>
+      <li>1983 - Ks. Franciszek Rajca +<em>22 marca 2015</em> </li>
       <li>1987 - Ks. Franciszek Musioł </li>
       <li>1998 - Ks. Józef Moczygęba</li>
+      <li>2001 - Ks. Aleksander Wojtala</li>
     </ol>
     <h3>Wikariusze</h3>
     <ol>
@@ -102,6 +80,7 @@
       <li>2007 - Ks. Marcin Palka</li>
       <li>2010 - Ks. Piotr Stoll, obecnie student KUL</li>
       <li>2012 - Ks. Adam Kiedrzyn, obecnie dyrektor Księgarni św. Jacka </li>
+      <li>2013 - Ks. Zbigniew Glenc</li>
     </ol>
   </div>
 
@@ -124,6 +103,7 @@
       <li>1992 - Ks. Marek Targiel, + 26 czerwca 2000</li>
       <li>2002 - Ks. Adam Skutela</li>
       <li>2005 - Ks. Jakub Dąbrowski</li>
+      <li>2015 - Ks. Przemysław Budniak</li>
     </ol>
   </div>
 

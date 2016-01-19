@@ -121,8 +121,8 @@ class SiteController extends Controller
 			$model->attributes=$_POST['ContactForm'];
 			if($model->validate())
 			{
-				$headers="From: {$model->email}\r\nReply-To: {$model->email}";
-				mail(Yii::app()->params['adminEmail'],$model->subject,$model->body,$headers);
+				$headers="Reply-To: {$model->email}";
+				mail(Yii::app()->params['adminEmail'], 'Kontakt ze strony parafialnej', $model->body, $headers);
 				Yii::app()->user->setFlash('contact','Dziękujemy za kontakt. Odpowiemy tak szybko jak się da.');
 				$this->refresh();
 			}

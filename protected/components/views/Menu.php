@@ -64,10 +64,9 @@
     <ul class="menu_items">
         <li><a href="http://pielgrzymkawyry.pl">Pielgrzymka</a></li>
         <li><?php echo CHtml::link("Ministranci",array('/site/page', 'view'=>'ministranci')); ?></li>
-        <li><a href="http://www.nspj-wyry.katowice.opoka.org.pl/Oaza" target="_blank">Oaza</a></li>
+        <li><a href="https://www.facebook.com/oazawyry?fref=ts" target="_blank">Oaza</a></li>
         <li><?php echo CHtml::link("Apostolstwo Dobrej Śmierci",array('/site/page', 'view'=>'apostolstwo')); ?></li>
-        <li><?php echo CHtml::link("Formacja Studentów",array('/site/page', 'view'=>'studenci')); ?></li>
-       <!--  <li><a><?php echo CHtml::link("Dzwoneczki",array('/site/page', 'view'=>'dzwoneczki')); ?></a></li>
+<!--         <li><a><?php echo CHtml::link("Dzwoneczki",array('/site/page', 'view'=>'dzwoneczki')); ?></a></li>
         <li><a><?php echo CHtml::link("Dzieci Maryii",array('/site/page', 'view'=>'dzieci')); ?></a></li> -->
     </ul>
 </div>
