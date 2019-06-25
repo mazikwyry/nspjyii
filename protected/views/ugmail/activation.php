@@ -18,5 +18,5 @@ To Activate your account please click on this link:<br/>
 <br/>or you can go to this address<br/>
 {link}<br/>
 and insert in the form the following data<br/>
-username: <b><?php echo $data['{username}']; ?></b><br/>
-activation code: <b><?php echo $data['{activation_code}']; ?></b>
+username: <strong><?php echo $data['{username}']; ?></strong><br/>
+activation code: <strong><?php echo $data['{activation_code}']; ?></strong>

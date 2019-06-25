@@ -52,7 +52,9 @@ $this->breadcrumbs=array(
 		<?php echo $form->labelEx($model,'verifyCode'); ?>
 		<div>
 		<?php $this->widget('CCaptcha', array(
-                            'clickableImage'=>false,
+														'clickableImage'=>true,
+                            'imageOptions'=>array('id' => 'captcha_image'),
+                            'showRefreshButton'=>false,
                         )); ?>
 		<?php echo $form->textField($model,'verifyCode'); ?>
 		</div>
@@ -78,9 +80,38 @@ $this->breadcrumbs=array(
 	wyry [at] archidiecezja.katowice.pl
 	<br/><br/>
 	Bank Spółdzielczy w Tychach:<br>
-	61 8435 0004 0000 0000 4633 0001 
+	61 8435 0004 0000 0000 4633 0001
      <br/>
 </div>
 <div class="cl"></div>
 <?php endif; ?>
 </article>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function(){
+        jQuery.ajax({
+            url: "<?php echo Yii::app()->request->baseUrl; ?>\/site\/captcha?refresh=1",
+            dataType: 'json',
+            cache: false,
+            success: function(data) {
+            jQuery('#captcha_image').attr('src', data['url']);
+            jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
+        }
+    });
+
+    });
+	jQuery('#captcha_image').on('click',function(){
+jQuery.ajax({
+    url: "<?php echo Yii::app()->request->baseUrl; ?>\/site\/captcha?refresh=1",
+	dataType: 'json',
+	cache: false,
+	success: function(data) {
+	jQuery('#captcha_image').attr('src', data['url']);
+	jQuery('body').data('captcha.hash', [data['hash1'], data['hash2']]);
+	}
+	});
+	return false;
+	});
+</script>

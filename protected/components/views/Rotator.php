@@ -1,15 +1,15 @@
-<!-- <div class="rotator_el">
-  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniabn.jpg"); ?>
+<!--  <div class="rotator_el">
+  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/zyczeniawn.png"); ?>
 </div> -->
-<!-- <div class="rotator_el">
- <a href="http://pielgrzymkawyry.pl" target="_blank">
-  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/pielgrzymka.png"); ?>
- </a>
-</div> -->
+<div class="rotator_el">
+  <a href="http://pielgrzymkawyry.pl">
+    <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/pielgrzymka2019.jpg"); ?>
+  </a>
+</div>
 <div class="rotator_el">
  <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/photos/4.jpg"); ?>
 	 <h1 id="day_desc" style="background-color:rgba(255,255,255,0.7); color: #333; top:auto; bottom:20px; left:auto; right:-20px; font-size:18px; padding:10px;">
-		<strong style="font-size:24px;">Dziś obchodzimy:</strong><? readfile('http://www.edycja.pl/ext/dzien.php'); ?> 
+		<strong style="font-size:24px;">Dziś obchodzimy:</strong><? readfile('http://www.edycja.pl/ext/dzien.php'); ?>
 		<style>
 			.www_edycja_pl>*{
 				display: none;
@@ -30,7 +30,7 @@
   var max = 2;
  </script>
 <?php } else {?>
-  
+
  <script type="text/javascript">
   var max = 1;
  </script>

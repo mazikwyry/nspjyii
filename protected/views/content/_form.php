@@ -34,9 +34,9 @@ tinyMCE.init({
     // General options
     mode : "textareas",
     theme : "modern",
-    plugins : "fullpage,textcolor,autolink,lists,spellchecker,pagebreak,layer,table,save,insertdatetime,preview,media,searchreplace,print,contextmenu,directionality,fullscreen,noneditable,visualchars,nonbreaking,template",
-  
-    toolbar: "bold italic underline strikethrough alignleft aligncenter alignright alignjustify fontselect fontsizeselect cut copy paste bullist numlist outdent indent blockquote undo redo removeformat subscript superscript forecolor",
+    plugins : "fullpage,textcolor,autolink,lists,spellchecker,pagebreak,layer,table,save,insertdatetime,preview,media,searchreplace,print,contextmenu,directionality,fullscreen,noneditable,visualchars,nonbreaking,template,link,image,code",
+
+    toolbar: "bold italic underline strikethrough alignleft aligncenter alignright alignjustify fontselect fontsizeselect cut copy paste bullist numlist outdent indent blockquote undo redo removeformat subscript superscript forecolor link unlink image code",
 
 
     paste_auto_cleanup_on_paste : false,
@@ -49,7 +49,7 @@ tinyMCE.init({
     width : "600",
     forced_root_block : false,
 
-    
+
     font_formats : "Noto=Noto Sans",
     fontsize_formats: "13px 14px 16px",
     fullpage_default_font_size: "14px",

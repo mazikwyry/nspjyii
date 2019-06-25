@@ -43,7 +43,7 @@ class CommentsController extends Controller
 			),
 		);
 	}
-    
+
     public function actions()
     {
         return array(
@@ -72,7 +72,7 @@ class CommentsController extends Controller
         $model->visible=1;
         $model->save();
     }
-    
+
 	/**
 	 * Creates a new model.
 	 * If creation is successful, the browser will be redirected to the 'view' page.
@@ -80,7 +80,7 @@ class CommentsController extends Controller
 	public function actionCreate()
 	{
 		$model=new Comments;
-        
+
         $model->scenario = "create";
 
 		$this->performAjaxValidation($model);
@@ -92,25 +92,25 @@ class CommentsController extends Controller
 				$model->visible = 1;
 			}
 			if($model->save()){
-				
+
 				$headers= "From: wyry@archidiecezja.katowice.pl\r\nReply-To: wyry@archidiecezja.katowice.pl";
 				$body = "Nowy komentarz został dodany na stronie parafialnej. Kliknij link poniżej aby zaakceptować:\n\n http://www.wyry.archidiecezja.katowice.pl/comments/admin";
 				if(!(Yii::app()->user->group==4 || Yii::app()->user->group==5)){
-					mail("olo@katowice.opoka.org.pl, mazik.wyry@gmail.com", "Nowy komentarz na stronie parafialnej", $body, $headers);
+					mail("mazik.wyry@gmail.com", "Nowy komentarz na stronie parafialnej", $body, $headers);
 			    }
 			    $criteria = new CDbCriteria;
                 $criteria->order = 'date_added DESC';
                 $criteria->condition = "news_id=$model->news_id";
-                
-                $dataProvider=new CActiveDataProvider('Comments',array(         
+
+                $dataProvider=new CActiveDataProvider('Comments',array(
                         'criteria'=>$criteria,
                         'pagination'=>array(
                             'pageSize'=>10,
                         ),
-                    
+
                     )
                     );
-				$this->renderPartial('index', 
+				$this->renderPartial('index',
 				    array('dataProvider'=>$dataProvider)
                 );
 			}

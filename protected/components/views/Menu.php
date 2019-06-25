@@ -19,7 +19,7 @@
             ));
             $this->endWidget();
         ?>
-        
+
         <div class="menu_block">
             <div class="menu_header">
                 Administracja
@@ -48,10 +48,10 @@
         <li><a><?php echo CHtml::link("Intencje mszalne",Yii::app()->createUrl("content/view", array("id"=>1))); ?></a></li>
         <li><a><?php echo CHtml::link("Wolne intencje",Yii::app()->createUrl("content/view", array("id"=>3))); ?></a></li>
         <li><?php echo CHtml::link("Gmina Wyry",array('/site/page', 'view'=>'polozenie')); ?></li>
-        <li><a href="http://picasaweb.google.pl/parafia.wyry" target="_blank">Galeria</a></li>
-         <li><a><?php echo CHtml::link("Kontakt",Yii::app()->createUrl('/site/contact')); ?></a></li> 
+        <li><?php echo CHtml::link("Galeria",Yii::app()->createUrl("site/gallery")); ?></li>
+         <li><a><?php echo CHtml::link("Kontakt",Yii::app()->createUrl('/site/contact')); ?></a></li>
         <?php foreach ($page as $pager) {
-          echo "<li style=\"font-weight:bold\">".CHtml::link($pager->title,Yii::app()->createUrl("content/view", array("id"=>$pager->id)))."</li>";  
+          echo "<li style=\"font-weight:bold\">".CHtml::link($pager->title,Yii::app()->createUrl("content/view", array("id"=>$pager->id)))."</li>";
         }
         ?>
     </ul>
@@ -63,11 +63,10 @@
     </div>
     <ul class="menu_items">
         <li><a href="http://pielgrzymkawyry.pl">Pielgrzymka</a></li>
-        <li><?php echo CHtml::link("Ministranci",array('/site/page', 'view'=>'ministranci')); ?></li>
-        <li><a href="http://www.nspj-wyry.katowice.opoka.org.pl/Oaza" target="_blank">Oaza</a></li>
+        <li><a href="https://www.facebook.com/ministranci.wyry/" target="_blank">Ministranci</a></li>
+        <li><a href="https://www.facebook.com/oazawyry?fref=ts" target="_blank">Oaza</a></li>
         <li><?php echo CHtml::link("Apostolstwo Dobrej Śmierci",array('/site/page', 'view'=>'apostolstwo')); ?></li>
-        <li><?php echo CHtml::link("Formacja Studentów",array('/site/page', 'view'=>'studenci')); ?></li>
-       <!--  <li><a><?php echo CHtml::link("Dzwoneczki",array('/site/page', 'view'=>'dzwoneczki')); ?></a></li>
+<!--         <li><a><?php echo CHtml::link("Dzwoneczki",array('/site/page', 'view'=>'dzwoneczki')); ?></a></li>
         <li><a><?php echo CHtml::link("Dzieci Maryii",array('/site/page', 'view'=>'dzieci')); ?></a></li> -->
     </ul>
 </div>
@@ -89,9 +88,9 @@
         Różne
     </div>
     <ul class="menu_items">
-        <li><a><?php echo CHtml::link("Blog parafialny",Yii::app()->createUrl('/site/blog')); ?></a></li>        
-        <li><a><?php echo CHtml::link("Dekanat",array('/site/page', "view"=>"dekanat")); ?></a></li> 
-        <li><a><?php echo CHtml::link("Polecamy",array('/site/page', "view"=>"linki")); ?></a></li> 
+        <li><a><?php echo CHtml::link("Blog parafialny",Yii::app()->createUrl('/site/blog')); ?></a></li>
+        <li><a><?php echo CHtml::link("Dekanat",array('/site/page', "view"=>"dekanat")); ?></a></li>
+        <li><a><?php echo CHtml::link("Polecamy",array('/site/page', "view"=>"linki")); ?></a></li>
         <!-- <li><a><?php echo CHtml::link("Dyskusja",Yii::app()->createUrl('/site/dyskusja')); ?></a></li>  -->
         <!-- <li><a>Księga gości</a></li> -->
     </ul>

@@ -30,34 +30,34 @@ class SiteController extends Controller
 	{
 		// renders the view file 'protected/views/site/index.php'
 		// using the default layout 'protected/views/layouts/main.php'
-		
+
 		$criteria = new CDbCriteria;
         $criteria->order = 'date_added DESC';
         $criteria->condition = "type='news' AND id>0";
-        
-		$dataProvider=new CActiveDataProvider(News::model(),array(         
+
+		$dataProvider=new CActiveDataProvider(News::model(),array(
                 'criteria'=>$criteria,
                 'pagination'=>array(
                     'pageSize'=>10,
                 ),
-            
+
             )
             );
-        
-        
+
+
         $criteria = new CDbCriteria;
         $criteria->order = 'date_added DESC';
-        
-        $dataProviderRip=new CActiveDataProvider(Rip::model(),array(         
+
+        $dataProviderRip=new CActiveDataProvider(Rip::model(),array(
                 'criteria'=>$criteria,
                 'pagination'=>array(
                     'pageSize'=>10,
                 ),
-            
-            )
-            );   
 
-        $discussion = News::model()->findByPk(0); 
+            )
+            );
+
+        $discussion = News::model()->findByPk(0);
         $this->render('index',array(
             'dataProvider'=>$dataProvider,
             'dataProviderRip'=>$dataProviderRip,
@@ -70,31 +70,37 @@ class SiteController extends Controller
 	{
 		// renders the view file 'protected/views/site/index.php'
 		// using the default layout 'protected/views/layouts/main.php'
-		
+
 		$criteria = new CDbCriteria;
         $criteria->order = 'date_added DESC';
         $criteria->condition = "type='blog'";
-        
-		$dataProvider=new CActiveDataProvider(News::model(),array(         
+
+		$dataProvider=new CActiveDataProvider(News::model(),array(
                 'criteria'=>$criteria,
                 'pagination'=>array(
                     'pageSize'=>10,
                 ),
-            
+
             )
             );
-            
+
         $this->render('blog',array(
             'dataProvider'=>$dataProvider
 
         ));
 	}
 
-		public function actionAdmin()
+	public function actionAdmin()
 	{
-            
+
         $this->render('admin');
 	}
+
+  public function actionGallery()
+  {
+        $this->layout = "oneColumn";
+        $this->render('gallery');
+  }
 
 	/**
 	 * This is the action to handle external exceptions.
@@ -121,8 +127,8 @@ class SiteController extends Controller
 			$model->attributes=$_POST['ContactForm'];
 			if($model->validate())
 			{
-				$headers="From: {$model->email}\r\nReply-To: {$model->email}";
-				mail(Yii::app()->params['adminEmail'],$model->subject,$model->body,$headers);
+				$headers="Reply-To: {$model->email}";
+				mail(Yii::app()->params['adminEmail'], 'Kontakt ze strony parafialnej', $model->body, $headers);
 				Yii::app()->user->setFlash('contact','Dziękujemy za kontakt. Odpowiemy tak szybko jak się da.');
 				$this->refresh();
 			}
