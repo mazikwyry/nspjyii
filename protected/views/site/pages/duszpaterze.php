@@ -12,38 +12,29 @@
     </div>
     <strong>Ks. Proboszcz Henryk Skorupa </strong>
        ur. 6.01.1967 roku w Rudzie Śląskiej, święcenia prezbiteratu przyjął od ks. abp. Damiana Zimonia 14.05.1994 r w Archikatedrze Chrystusa Króla w Katowicach, mgr lic. teologii, od 2015 roku proboszcz naszej parafii.
-    <br/><br/><br/>
-    <div class="cl"></div>
-    <div class="image">
-      <?php echo CHtml::image(Yii::app()->request->baseUrl."/images/Kiedrzyn.jpg"); ?>
-    </div>
-    <strong>Ks. Adam Kiedrzyn<br></strong>
-    ur. 15.12.1975r. w Bytomiu. W 1997r. wstępuje do Wyższego Śląskiego Seminarium Duchownego w Katowicach. W 2001r. udał się na kontynuację studiów teologicznych do Seminario San Carlo w Breganzone (Ticino) do Szwajcarii. 15.05.2004r. przyjął święcenia kapłańskie z rąk ks. Abpa Damiana Zimonia w katedrze katowickiej.
-    Pracował w parafiach Najświętszego Serca Pana Jezusa w Rybniku Niedobczycach, Najświętszego Serca Pana Jezusa w Wyrach. Aktualnie pełni funkcję Dyrektora Księgarni Św. Jacka w Katowicach i pomaga w naszej parafii (odpowiedzialny za grupę ministrantów).
-
-    <br/><br/><br/>
-    <div class="cl"></div>
-    <div class="image">
-      <img src="http://www.wyry.archidiecezja.katowice.pl/images/Stoll.jpg">
-    </div>
-    <strong>Ks. Piotr Stoll</strong><br>
-    Urodzony: 19.09.1977 w Tychach. Chrzest św.: w parafii p.w. św. Bartłomieja w Bieruniu Starym. Bierzmowanie: w parafii p.w. bł Karoliny w Tychach. Egzamin maturalny zdał w 1997 roku, następnie studiował na Akademii Górniczo - Hutniczej w Krakowie.
-    W czasie studiów, jak i po ich ukończeniu pracował zawodowo. W roku 2004 wstąpił do Wyższego Śląskiego Seminarium Duchownego, a w roku 2010 przyjął święcenia prezbiteratu z rąk ks. abpa Damiana Zimonia, w katowickiej Katedrze Chrystusa Króla.&nbsp;<br>Obecnie student KUL
 
     <br/> <br/><br/>
     <div class="cl"></div>
     <div class="image">
-     <img src="http://www.wyry.archidiecezja.katowice.pl/images/poloczek.jpg"> 
+     <img src="http://www.wyry.archidiecezja.katowice.pl/images/poloczek.jpg">
     </div>
     <strong>Ks. Poloczek Edward</strong><br>
-    Ur. 19.09.1941 Pawłów, <br>05.06.1966 w Katowicach przyjął święcenia kapłańskie, dr teologii, kapelan Jego Świątobliwości, ojciec duchowny Wyższego Śląskiego Seminarium Duchownego, ojciec duchowny kapłanów archidiecezji katowickiej. 
-    <br>Członek: 
-    <ul> 
+    Ur. 19.09.1941 Pawłów, <br>05.06.1966 w Katowicach przyjął święcenia kapłańskie, dr teologii, kapelan Jego Świątobliwości, ojciec duchowny Wyższego Śląskiego Seminarium Duchownego, ojciec duchowny kapłanów archidiecezji katowickiej.
+    <br>Członek:
+    <ul>
       <li> Archidiecezjalnej Komisji Liturgicznej,</li>
       <li> Archidiecezjalnej Komisji Muzyki Sakralnej,</li>
       <li> Rady Naukowej Instytutu Teologiczno-Pastoralnego w Katowicach. </li>
     </ul>
-    Od lipca 2003 – rezydent w Wyrach. 
+    Od lipca 2003 – rezydent w Wyrach.
+
+
+    <br/><br/><br/>
+
+    <div class="cl"></div>
+    <strong>Ks. Piotr Stoll</strong><br>
+    Urodzony: 19.09.1977 w Tychach. Święcenia przyjął w roku 2010. Od 2010 roku w Wyrach.
+
   </div>
 
 
@@ -72,14 +63,14 @@
       <li>1969 - Ks. Paweł Laby </li>
       <li>1973 - Ks. Ryszard Sosna </li>
       <li>1988 - Ks. Stanisław Pindel </li>
-      <li>1991 - Ks. Stanisław Durczok. </li>
+      <li>1991 - Ks. Stanisław Durczok </li>
       <li>1992 - Ks. Jerzy Słota </li>
       <li>1996 - Ks. Michał Chlubek</li>
       <li>2000 - Ks. Dariusz Grodoń</li>
       <li>2004 - Ks. Krystian Łagowski</li>
       <li>2007 - Ks. Marcin Palka</li>
       <li>2010 - Ks. Piotr Stoll, obecnie student KUL</li>
-      <li>2012 - Ks. Adam Kiedrzyn, obecnie dyrektor Księgarni św. Jacka </li>
+      <li>2012 - Ks. Adam Kiedrzyn</li>
       <li>2013 - Ks. Zbigniew Glenc</li>
     </ol>
   </div>

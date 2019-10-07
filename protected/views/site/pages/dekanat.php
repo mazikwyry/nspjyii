@@ -14,7 +14,7 @@
     Odpust: 15 sierpnia<br>
     Msze święte: wieczorem w soboty i dni przedświąteczne: 17.00 (IX-VI, 18.00 (VII-VIII)<br>
     w niedziele i święta: 8.00, 10.30, 15.30<br>
-    Proboszcz: ks. Andrzej  Ahnert</p>
+    Proboszcz: ks. Ireneusz Kliche</p>
 
     <ol style="MARGIN-TOP: 0cm" start="2">
       <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><strong>Gostyń
@@ -28,7 +28,7 @@
         Liczba mieszkańców: 895, katolików 895<br>
         Odpust: niedziela po 13 września<br>
         Msze święte: w niedziele i święta: 7.30 , 10.00 , 17.00<br>
-        Proboszcz: ks. Rafał Październiok</p>
+        Proboszcz: ks. Henryk Nowara</p>
 
         <ol start="3" style="MARGIN-TOP: 0cm">
           <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><strong>Gostyń
@@ -57,7 +57,7 @@
                   Odpust: pierwsza niedziela czerwca<br>
                   Msze święte: wieczorem w soboty i dni przedświąteczne: 17.00<br>
                   w niedziele i święta: 7.00, 9.00, 11.00<br>
-                  Proboszcz: ks. Dominik Szaforz</p>
+                  Proboszcz: ks. Zbigniew Mizia</p>
 
                   <ol start="5" style="MARGIN-TOP: 0cm" type="1">
                     <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><strong>Łaziska
@@ -75,7 +75,7 @@
                       Odpust: pierwsza niedziela października<br>
                       Msze święte: wieczorem w soboty i dni przedświąteczne: 17.00<br>
                       w niedziele i święta: 7.00, 8.30, 10.00, 11.30, 17.00<br>
-                      Proboszcz: Ks. dr Jacek Wojciech</p>
+                      Proboszcz: Ks. Grzegorz Śmieciński</p>
 
                       <ol start="6" style="MARGIN-TOP: 0cm" type="1">
                         <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><strong>Łaziska
@@ -100,12 +100,12 @@
                                 Serca Pana Jezusa</a></strong><br>
                                 ul. Ks. Franciszka Bojdoła 3, 43-175 Wyry<br>
                                 tel. 0-32/218 71 88<br>
-                                Liczba mieszkańców: 3181, katolików 3122<br>
+                                Liczba mieszkańców: 3800, katolików 3750<br>
                                 Odpust: 2 niedziela czerwca<br>
                                 Msze święte: wieczorem w soboty i dni przedświąteczne: 17.00<br>
                                 w niedziele i święta: 7.00, 9.00, 11.00, 15.30<br>
-                                ks. Aleksander Wojtala<br><br></p>
-                            <ol>
+                                ks. Henryk Skorupa<br><br></p>
+                            <ol start="8">
                               <li class="MsoNormal" style="mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><strong>Zgoń</strong></li>
                             </ol>
 
