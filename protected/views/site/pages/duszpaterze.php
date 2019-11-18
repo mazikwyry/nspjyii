@@ -8,7 +8,7 @@
 
   <div class="sub_page" id="sub1">
     <div class="image">
-     <img src="http://www.wyry.archidiecezja.katowice.pl/images/faroz.jpg">
+     <img src="/images/faroz.jpg">
     </div>
     <strong>Ks. Proboszcz Henryk Skorupa </strong>
        ur. 6.01.1967 roku w Rudzie Śląskiej, święcenia prezbiteratu przyjął od ks. abp. Damiana Zimonia 14.05.1994 r w Archikatedrze Chrystusa Króla w Katowicach, mgr lic. teologii, od 2015 roku proboszcz naszej parafii.
@@ -16,7 +16,7 @@
     <br/> <br/><br/>
     <div class="cl"></div>
     <div class="image">
-     <img src="http://www.wyry.archidiecezja.katowice.pl/images/poloczek.jpg">
+     <img src="/images/poloczek.jpg">
     </div>
     <strong>Ks. Poloczek Edward</strong><br>
     Ur. 19.09.1941 Pawłów, <br>05.06.1966 w Katowicach przyjął święcenia kapłańskie, dr teologii, kapelan Jego Świątobliwości, ojciec duchowny Wyższego Śląskiego Seminarium Duchownego, ojciec duchowny kapłanów archidiecezji katowickiej.

@@ -94,7 +94,7 @@ class CommentsController extends Controller
 			if($model->save()){
 
 				$headers= "From: wyry@archidiecezja.katowice.pl\r\nReply-To: wyry@archidiecezja.katowice.pl";
-				$body = "Nowy komentarz został dodany na stronie parafialnej. Kliknij link poniżej aby zaakceptować:\n\n http://www.wyry.archidiecezja.katowice.pl/comments/admin";
+				$body = "Nowy komentarz został dodany na stronie parafialnej. Kliknij link poniżej aby zaakceptować:\n\n /comments/admin";
 				if(!(Yii::app()->user->group==4 || Yii::app()->user->group==5)){
 					mail("mazik.wyry@gmail.com", "Nowy komentarz na stronie parafialnej", $body, $headers);
 			    }

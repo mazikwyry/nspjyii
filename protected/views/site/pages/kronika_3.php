@@ -8,7 +8,7 @@
             <p align="center"><em><font size="2">Na zdjęciu:<br>Ks. Wincenty Nagi</font></em></p>
             </td>
             <td width="50%">
-            <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron14.jpg" alt="" border="0" height="298" width="230"></p>
+            <p align="center"><img src="/images/Kronika/z_kron14.jpg" alt="" border="0" height="298" width="230"></p>
             </td>
         </tr>
     </tbody>
@@ -27,17 +27,17 @@
                 <p align="center"><em><font size="2">Na zdjęciu:<br>Ks. Paweł Kempka</font></em></p>
                 </td>
                 <td width="50%">
-                <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron15.jpg" alt="" border="0" height="166" width="111"></p>
+                <p align="center"><img src="/images/Kronika/z_kron15.jpg" alt="" border="0" height="166" width="111"></p>
                 </td>
             </tr>
         </tbody>
     </table>
     </li>
 </ul>
-<p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron16.jpg" alt="" border="0" height="253" width="386"></p>
-<p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron17.jpg" alt="" border="0" height="251" width="384"></p>
-<p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron18.jpg" alt="" border="0" height="249" width="380"></p>
-<p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron22.jpg" alt="" border="0" height="238" width="154"></p>
+<p align="center"><img src="/images/Kronika/z_kron16.jpg" alt="" border="0" height="253" width="386"></p>
+<p align="center"><img src="/images/Kronika/z_kron17.jpg" alt="" border="0" height="251" width="384"></p>
+<p align="center"><img src="/images/Kronika/z_kron18.jpg" alt="" border="0" height="249" width="380"></p>
+<p align="center"><img src="/images/Kronika/z_kron22.jpg" alt="" border="0" height="238" width="154"></p>
 <p align="center"><em>Rok <a name="1945">1945</a></em></p>
 <p><em>W godzinach rannych 27 stycznia 1945 roku ofensywa wojsk radzieckich dotarła do Wyr.<br>Mimo bardzo wielu drastycznych przeżyć i wydarzeń, wyzwoleniu towarzyszyła jednak spontaniczna radość.<br>Proboszcz ks. Jan Janota na podziękowanie Panu Bogu za ocalenie wsi od kolejnych zniszczeń odprawił w niedzielę dnia 4 lutego 1945 r. pierwsze po wyzwoleniu dziękczynne nabożeństwo w języku polskim. Podczas tego nabożeństwa odśpiewano “Te Deum” i “Boże coś Polskę”. Wierni uczestniczący w tym nabożeństwie z wielkim wzruszeniem i ze łzami radości w oczach odśpiewali po polsku wszystkie pieśni i hymny.<br>Liczba komunii świętych rozdanych w 1945 roku wyniosła 23.626 czyli tyle co przed wojną w 1938 roku.<br>Po wojnie miały w naszym kościele miejsce uroczyste Msze święte księży pochodzących z Wyr, którzy podczas okupacji otrzymali święcenia kapłańskie.</em></p>
 <p>
@@ -45,10 +45,10 @@
     <tbody>
         <tr>
             <td width="50%">
-            <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron19.jpg" alt="" border="0" height="310" width="205"></p>
+            <p align="center"><img src="/images/Kronika/z_kron19.jpg" alt="" border="0" height="310" width="205"></p>
             </td>
             <td width="50%">
-            <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron20.jpg" alt="" border="0" height="310" width="210"></p>
+            <p align="center"><img src="/images/Kronika/z_kron20.jpg" alt="" border="0" height="310" width="210"></p>
             </td>
         </tr>
         <tr>
@@ -64,13 +64,13 @@
 </p>
 <p align="center"><em>Rok <a name="1946">1946</a></em></p>
 <p><em>We wrześniu 1946 roku przybył do naszej parafii na wizytację duszpasterską Ordynariusz Diecezji Katowickiej J. E. Ks. Biskup Stanisław Adamski.<br>W trakcie tej wizytacji Ksiądz Biskup Ordynariusz odprawił uroczystą Mszę Świętą i wygłosił kazanie a następnie udzielił Sakramentu Bierzmowania licznej rzeszy parafian.<br></em><em>Zbliża się 25- ta rocznica pracy duszpasterskiej w Wyrach&nbsp;<br>Ks. Proboszcza Jana Janoty.</em></p>
-<p align="center"><em><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron13.jpg" alt="" border="0" height="288" width="460"><br><font size="2">Na zdjęciu: Ks. Proboszcz Jan Janota z grupą chłopców,&nbsp;<br>przystępujących do I Komunii Św. po wojnie. </font></em></p>
+<p align="center"><em><img src="/images/Kronika/z_kron13.jpg" alt="" border="0" height="288" width="460"><br><font size="2">Na zdjęciu: Ks. Proboszcz Jan Janota z grupą chłopców,&nbsp;<br>przystępujących do I Komunii Św. po wojnie. </font></em></p>
 <p align="left"><em>W grudniu zmarł Leopold Mańka, który pełnił obowiązki kościelnego od 1919 roku. Obowiązki kościelnego pełni obecnie Pan Józef Kolonko, który tak jak Ks. Proboszcz mieszka u Pana<br>&nbsp;Gerlicha przy ul. Kościelnej 5.</em></p>
 <p align="center"><em>Rok <a name="1948">1948</a></em></p>
 <p><em>Zniszczenia wojenne w Wyrach były bardzo duże, bo uszkodzonych lub spalonych było ponad 70 % budynków mieszkalnych i gospodarczych.<br>Dopiero 1 lipca 1948 roku przystąpiono do odbudowy spalonej w 1939 roku plebanii. Prace przy jej odbudowie trwały przez okres dwóch lat.<br>Od ubiegłego roku obowiązki grabarza na cmentarzu parafialnym pełni Teofil Kopiec. Zastąpił on Pana Andrzeja Otkę, który był grabarzem od początków naszej Parafii.<br>W ubiegłym roku panie z Sodalicji Mariańskiej zamówiły do Kościoła piękny sztandar, który jest noszony na procesjach np. w Odpust, Boże Ciało i w oktawie.</em></p>
-<p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron23.jpg" alt="" border="0" height="236" width="370"></p>
+<p align="center"><img src="/images/Kronika/z_kron23.jpg" alt="" border="0" height="236" width="370"></p>
 <p align="center"><em><font size="2">Na zdjęciu: Jeden z pierwszych pocztów sztandarowych ze swoim sztandarem.</font></em></p>
-<p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron36.jpg" alt="" border="0" height="230" width="339"></p>
+<p align="center"><img src="/images/Kronika/z_kron36.jpg" alt="" border="0" height="230" width="339"></p>
 <p align="center"><em>Rok <a name="1950">1950</a></em></p>
 <p><em>Prace przy odbudowanej plebanii zakończyły się 1 września 1950 roku. Dopiero po 11 latach Ksiądz Proboszcz mógł ponownie zamieszkać na plebanii.</em></p>
 <p align="center"><em>Rok <a name="1951">1951</a></em></p>
@@ -79,7 +79,7 @@
 <table border="1" width="90%">
     <tbody>
         <tr>
-            <td width="50%"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron24.jpg" alt="" border="0" height="238" width="331"></td>
+            <td width="50%"><img src="/images/Kronika/z_kron24.jpg" alt="" border="0" height="238" width="331"></td>
             <td width="50%">
             <p align="center"><font size="2"><em>Na zdjęciu:<br>Ks. Proboszcz Jan Janota<br>Ks. Wikary Walter Gajda<br>Panie z Sodalicji Mariańskiej<br>ze swoim sztandarem.</em></font></p>
             </td>
@@ -94,10 +94,10 @@
     <tbody>
         <tr>
             <td width="50%">
-            <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron25.jpg" alt="" border="0" height="376" width="220"></p>
+            <p align="center"><img src="/images/Kronika/z_kron25.jpg" alt="" border="0" height="376" width="220"></p>
             </td>
             <td width="50%">
-            <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron26.jpg" alt="" border="0" height="160" width="238"></p>
+            <p align="center"><img src="/images/Kronika/z_kron26.jpg" alt="" border="0" height="160" width="238"></p>
             </td>
         </tr>
         <tr>
@@ -118,7 +118,7 @@
     <tbody>
         <tr>
             <td width="50%">
-            <p align="center"><img src="http://www.wyry.archidiecezja.katowice.pl/images/Kronika/z_kron27.jpg" alt="" border="0" height="335" width="183"></p>
+            <p align="center"><img src="/images/Kronika/z_kron27.jpg" alt="" border="0" height="335" width="183"></p>
             </td>
             <td width="50%">
             <p align="center"><em><font size="2">Ks. Konstanty Nagi - O. Placyd<br>jest bratem Ks. Wincentego Nagi - Drobiny, wyświęconego 23 grudnia 1939 roku.<br>Na zdjęciu Ks. Konstanty Nagi (z prawej) z bratem Ks. Wincentym.</font></em></p>
